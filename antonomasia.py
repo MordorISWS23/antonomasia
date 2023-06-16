@@ -13,6 +13,7 @@ argparser.add_argument("-a", required=True)
 argparser.add_argument("--emb", required=True)
 argparser.add_argument("--num", required=False, default=10)
 argparser.add_argument("--funny-first", action="store_true", default=False)
+argparser.add_argument("--translate", action="store_true", default=False)
 
 
 if __name__ == "__main__":
@@ -44,7 +45,11 @@ if __name__ == "__main__":
     profession_pred = "P106"
 
     try:
-        top_k = generator.project_topk(args.a, profession_pred, args.num, magnitude_sort=args.funny_first)
+        if args.translate:
+            top_k = generator.translate_topk(args.a, profession_pred, args.num, magnitude_sort=args.funny_first)
+        else:
+            top_k = generator.project_topk(args.a, profession_pred, args.num, magnitude_sort=args.funny_first)
+
         for b, conf in zip(*top_k):
             sentence = verb.generate_sentence(args.a, b, profession_pred)
             print(f"Confidence: {conf} - {sentence}")        
