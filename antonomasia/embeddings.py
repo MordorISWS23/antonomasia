@@ -62,7 +62,7 @@ class KGE(Embedding):
     Returns:
         np.array: Embedding using numpy vector.
     """
-    return self.pe[self.p2id[identifier[0]]]
+    return self.pe[self.p2id[identifier]]
 
 class WordEmbedding(Embedding):
   def __init__(self, method: str):

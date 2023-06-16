@@ -39,7 +39,7 @@ class AntonomasiaGenerator(object):
     
     cos_sim = cosine_similarity(a_proj.reshape(1, -1), b_proj).reshape(-1)
     
-    top_k = np.argsort(cos_sim)[::-1][1:(k + 1)]
+    top_k = np.argsort(cos_sim)[::-1][1:k + 1]
     
     if magnitude_sort:
       top_k = top_k[np.argsort(np.abs(b_proj[top_k]).sum(axis=1))[::-1]]
