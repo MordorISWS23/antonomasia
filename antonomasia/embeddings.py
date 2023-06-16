@@ -70,6 +70,8 @@ class WordEmbedding(Embedding):
 
     if method == "word2vec":
       self.emb = gensim.downloader.load("word2vec-google-news-300")
+    elif method == "glove":
+      self.emb = gensim.downloader.load("glove-wiki-gigaword-300")
       
 
   def __contains__(self, identifier: str) -> bool:

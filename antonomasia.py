@@ -25,6 +25,12 @@ if __name__ == "__main__":
             pool_of_b = [(row[1], row[-1].split("_")) for row in csv_reader]
 
         emb = WordEmbedding("word2vec")
+    elif args.emb == "glove":
+        with open(args.b_pool, "r") as csvfile:
+            csv_reader = csv.reader(csvfile)
+            pool_of_b = [(row[1], row[-1].split("_")) for row in csv_reader]
+
+        emb = WordEmbedding("glove")
     else:
         with open(args.b_pool, "r") as csvfile:
             csv_reader = csv.reader(csvfile)
