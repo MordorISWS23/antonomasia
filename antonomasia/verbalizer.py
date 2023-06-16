@@ -20,8 +20,11 @@ class Verbalizer(object):
     A_label = A_entity.label
     A_props = A_entity.lists()
 
-    B_entity = self.client.get(B_id, load=True)
-    B_label = B_entity.label
+    try:
+      B_entity = self.client.get(B_id, load=True)
+      B_label = B_entity.label
+    except:
+      B_label = B_id
 
     C_entity = self.client.get(C_id, load=True)
     wikicommons_category = self.client.get("P373", load=True)

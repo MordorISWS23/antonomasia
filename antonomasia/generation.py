@@ -4,13 +4,11 @@ import pickle
 from sklearn.metrics.pairwise import cosine_similarity
 from wikidata.client import Client
 
-from antonomasia.embeddings import KGE
-
 class AntonomasiaGenerator(object):
 
-  def __init__(self, kge: KGE, b_pool):
-    self.kge = kge
-    self.b_pool = [b for b in b_pool if b[0] in self.kge]
+  def __init__(self, emb, b_pool):
+    self.emb = emb
+    self.b_pool = [b for b in b_pool if b[0] in self.emb]
     self.client = Client()
 
   def project_topk(self, a: str, c: str, k: int = 10, magnitude_sort: bool = False) -> Tuple[np.array, np.array]:
@@ -25,7 +23,7 @@ class AntonomasiaGenerator(object):
     Returns:
         Tuple[np.array, np.array]: Tuple containing the top k B candidates and their similarity score.
     """
-    a_emb = self.kge.embed_entity(a)
+    a_emb = self.emb.embed_entity(a)
 
     # exclude entities with the same profession
     a_entity = self.client.get(a, load=True)
@@ -33,8 +31,8 @@ class AntonomasiaGenerator(object):
     a_professions = set([str(e.label) for e in a_entity.getlist(c_entity)])
     filtered_b_pool = np.array([b for b, p in self.b_pool if len(a_professions.intersection(p)) == 0])
 
-    b_emb = np.stack([self.kge.embed_entity(x) for x in filtered_b_pool])
-    c_emb = self.kge.embed_predicate(c)
+    b_emb = np.stack([self.emb.embed_entity(x) for x in filtered_b_pool])
+    c_emb = self.emb.embed_predicate(c)
 
     a_proj = a_emb - (c_emb * (np.dot(a_emb, c_emb) / np.dot(c_emb, c_emb)))
     b_proj = b_emb - (c_emb * (np.dot(b_emb, c_emb) / np.dot(c_emb, c_emb)).reshape(-1, 1))
