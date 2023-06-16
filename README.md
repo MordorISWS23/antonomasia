@@ -7,3 +7,4 @@ Install the requirements with
 
 Generate an antonomasia with `python antonomasia.py -a Q22686 --emb transe_wikidata5m.pkl`. 
 Replace `Q22686` with the wikidata entity and `transe_wikidata5m.pkl` with the actual embedding.
+You can add the `--funny-first` parameter to enable magnitude sort.

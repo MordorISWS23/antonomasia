@@ -43,7 +43,7 @@ class AntonomasiaGenerator(object):
     
     top_k = np.argsort(cos_sim)[::-1][1:(k + 1)]
     
-    #if magnitude_sort:
-    #b_proj[top_k]
+    if magnitude_sort:
+      top_k = top_k[np.argsort(np.abs(b_proj[top_k]).sum(axis=1))[::-1]]
 
     return filtered_b_pool[top_k], cos_sim[top_k]
