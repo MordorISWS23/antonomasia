@@ -5,9 +5,23 @@ from antonomasia.utils import Sample
 
 class Verbalizer(object):
   def __init__(self):
+    """
+    Initialize verbalizer
+    """
     self.client = Client()
 
-  def generate_sentence(self, a: Sample, b: Sample, c: str):
+  def generate_sentence(self, a: Sample, b: Sample, c: str) -> str:
+    """
+    Generate a sentence starting from sample A, B and c context.
+
+    Args:
+        a (Sample): Entity A
+        b (Sample): Entity B
+        c (str): Context C
+
+    Returns:
+        str: Generated sentence. Take into account if A is dead.
+    """
     a_entity = self.client.get(a.wikidata_iri, load=True)
     c_entity = self.client.get(c, load=True)
     wikicommons_category = self.client.get("P373", load=True)
