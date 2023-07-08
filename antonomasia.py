@@ -34,7 +34,7 @@ subparsers_kge.add_argument("-c", "--combination", required=True, help="Combinat
 if __name__ == "__main__":
     args = argparser.parse_args()
     
-    with open(args.b_pool, "r") as csvfile:
+    with open(args.b_pool, "r", encoding="utf-8") as csvfile:
         csv_reader = csv.reader(csvfile)
         pool_of_b = [Sample(row[0].split("/")[-1], row[1], row[-1].split("_")) for row in csv_reader]
 
