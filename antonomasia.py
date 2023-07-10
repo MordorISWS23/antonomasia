@@ -13,9 +13,10 @@ argparser.add_argument("-b", "--b_pool", required=True, help="Path to the file c
 argparser.add_argument("-a", required=True, help="A entity expressed as Wikidata ID - e.g. Q76.")
 argparser.add_argument("--num", required=False, default=10, type=int, help="Number of sentences to generate.")
 argparser.add_argument("--confidence", action="store_true", default=False, help="Add a confidence score to each generated sentence.")
+argparser.add_argument("--distance", default="cosine", type=str, choices=["cosine", "euclidean"], help="Vector distance to use.")
 argparser.add_argument("--funny-first", action="store_true", default=False)
 
-subparsers = argparser.add_subparsers(dest="method", help="Method specific parameters")
+subparsers = argparser.add_subparsers(dest="method", help="Method specific parameters", required=True)
 
 subparsers_kge = subparsers.add_parser("kge", help="Use Knowledge Graph Embeddings")
 subparsers_kge.add_argument("-i", "--input", required=True, help="Path to the KGE weigths.")
@@ -52,18 +53,23 @@ if __name__ == "__main__":
     
     profession_pred = "P106"
     a_sample = get_sample(args.a, profession_pred)
-    a_emb, b_emb, b_ids, c_emb = generator.embed_a_b_c(a_sample, profession_pred)
+    
+    try:
+        a_emb, b_emb, b_ids, c_emb = generator.embed_a_b_c(a_sample, profession_pred)
 
-    if args.projection == "translate":
-        a, b = generator.translate_embeddings(a_emb, b_emb, c_emb)
-    elif args.projection == "project":
-        a, b = generator.project_embeddings(a_emb, b_emb, c_emb)
+        if args.projection == "translate":
+            a, b = generator.translate_embeddings(a_emb, b_emb, c_emb)
+        elif args.projection == "project":
+            a, b = generator.project_embeddings(a_emb, b_emb, c_emb)
 
-    top_k, sim = generator.top_k(a, b, k=args.num, magnitude_sort=args.funny_first)
+        top_k, sim = generator.top_k(a, b, k=args.num, magnitude_sort=args.funny_first, similarity_fn=args.distance)
 
-    for idx, conf in zip(top_k, sim):
-        b = b_ids[idx]
-        sentence = verb.generate_sentence(a_sample, b, profession_pred)
-        if args.confidence:
-            print(f"Confidence: {conf} - ", end="")
-        print(f"{sentence}")
+        for idx, conf in zip(top_k, sim):
+            b = b_ids[idx]
+            sentence = verb.generate_sentence(a_sample, b, profession_pred)
+            if args.confidence:
+                print(f"Confidence: {conf} - ", end="")
+            print(f"{sentence}")
+    except:
+        # Entity is not available in training set
+        pass

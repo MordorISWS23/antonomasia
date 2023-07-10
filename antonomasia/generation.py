@@ -1,7 +1,7 @@
 from typing import List, Tuple, Callable
 import numpy as np
 import pickle
-from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.metrics.pairwise import cosine_similarity, euclidean_distances
 
 from antonomasia.embeddings import BaseEmbedding
 from antonomasia.utils import Sample
@@ -47,12 +47,17 @@ class AntonomasiaGenerator(object):
     """
     if similarity_fn == "cosine":
       similarity_fn = cosine_similarity
+      reverse = True
+    elif similarity_fn == "euclidean":
+      similarity_fn = euclidean_distances
+      reverse = False
     else:
       raise ValueError(f"similarity function {similarity_fn} is not supported!")
 
     sim = similarity_fn(a.reshape(1, -1), b).reshape(-1)
     
-    top_k = np.argsort(sim)[::-1][1:k + 1]
+    top_k = np.argsort(sim)[::-1] if reverse else np.argsort(sim)
+    top_k = top_k[1:k + 1]
     
     if magnitude_sort:
       top_k = top_k[np.argsort(np.abs(b[top_k]).sum(axis=1))[::-1]]

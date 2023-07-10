@@ -151,7 +151,13 @@ class WordEmbedding(BaseEmbedding):
     Returns:
         bool: True if the embedding method contains s, False otherwise
     """
-    return all([l in self.emb for l in s.label.split()])
+    label = s.label.lower()
+    if " " in label:
+      contains = all([l in self.emb for l in label.split()])
+    else:
+      contains = label in self.emb
+    
+    return contains
 
   def embed_entity(self, s: Sample) -> np.array:
     """
@@ -166,9 +172,17 @@ class WordEmbedding(BaseEmbedding):
     Returns:
         np.array: Embedding using numpy vector.
     """
-    embs = [self.emb[w] for w in s.label.split() if w in self.emb]
-    if len(embs) > 0:
-      emb = np.average(np.stack(embs), axis=0)
+    label = s.label.lower()
+    if " " in label:
+      label = label.split()
+      embs = [self.emb[w] for w in label if w in self.emb]
+    else:
+      embs = [self.emb[label]]
+
+    if len(embs) == 1:
+      emb = embs[0]
+    elif len(embs) > 1:
+      emb = np.average(embs, axis=0)
     else:
       emb = np.random.random(self.emb.vector_size)
     return emb
@@ -228,6 +242,10 @@ class MetaEmbedding(BaseEmbedding):
     Returns:
         np.array: Combined embedding
     """
+    # normalize both embeddings
+    a = a / np.linalg.norm(a)
+    b = b / np.linalg.norm(b)
+
     if self.method == "concatenate":
       emb = np.concatenate((a, b))
     elif self.method == "average":
