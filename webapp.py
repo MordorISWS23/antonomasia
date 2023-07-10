@@ -23,7 +23,7 @@ WHERE {
 }
 """
 
-with open("data/pool_of_b.csv", "r") as csvfile:
+with open("data/pool_of_b.csv", "r", encoding="utf-8") as csvfile:
   csv_reader = csv.reader(csvfile)
   pool_of_b = [Sample(row[0].split("/")[-1], row[1], row[-1].split("_")) for row in csv_reader]
 
