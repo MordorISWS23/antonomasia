@@ -22,6 +22,8 @@ WHERE {
   FILTER(LANG(?description) = "en")
 }
 """
+st.set_page_config(page_title="Vossian Generarion", page_icon="🦜",
+                   layout="wide", initial_sidebar_state="collapsed", menu_items=None)
 
 with open("data/pool_of_b.csv", "r", encoding="utf-8") as csvfile:
   csv_reader = csv.reader(csvfile)
