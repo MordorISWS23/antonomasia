@@ -74,6 +74,7 @@ footer = """
         </style>
         """
 
+
 def write_footer():
     st.markdown(
         """
@@ -83,7 +84,7 @@ def write_footer():
                 left: 0;
                 bottom: 0;
                 width: 100%;
-                background-color: #f5f5f5;
+                background-color: #FFFFFF;
                 color: #666;
                 text-align: right;
                 padding: 10px;
