@@ -1,17 +1,41 @@
 import streamlit as st
-
-import numpy as np
-import pickle
-import argparse
 import csv
-
 from antonomasia.embeddings import KGE, WordEmbedding, MetaEmbedding
 from antonomasia.generation import AntonomasiaGenerator
 from antonomasia.verbalizer import Verbalizer
-from antonomasia.utils import Sample, get_sample
-
+from antonomasia.utils import Sample
 from SPARQLWrapper import SPARQLWrapper, JSON
+from streamlit_extras.add_vertical_space import add_vertical_space
+from style import write_footer, hide_menu_style, custom_style
 
+st.set_page_config(page_title="Vossian Generarion", page_icon="🦜",
+                   layout="wide", initial_sidebar_state="collapsed", menu_items=None)
+# add custom style
+st.markdown(custom_style, unsafe_allow_html=True)
+st.markdown(hide_menu_style, unsafe_allow_html=True)
+
+st.title("Vossian Antonomasias")
+add_vertical_space(1)
+
+st.subheader("Do you want to get creative suggestions for Vossian Antonomasias?")
+
+add_vertical_space(2)
+
+with st.expander("What are Vossian Antonomasias?"):
+    st.markdown('<p style="font-size: 16px;">Vossian antonomasias refer to someone by a special '
+                'characteristic instead of their name.  \
+                 <br>   For example, calling Bill Gates "the Henry Ford of the computer age" '
+                'highlights his influence as entrepeneur and his effect on the development of technology. \
+                 <br> It is a way to describe someone by an important quality they possess. </p>',
+                unsafe_allow_html=True)
+add_vertical_space(2)
+st.markdown('<p style="font-size: 20px;"><b>This is how it works:</b></p>', unsafe_allow_html=True)
+st.markdown('<p style="font-size: 18px;"><b>1. Select an entity you want to describe '
+            'with a Vossian Antonomasia.</b></p>', unsafe_allow_html=True)
+st.markdown('<p style="font-size: 18px;"><b>2. Select the number of sentences to be generated.</b></p>',
+             unsafe_allow_html=True)
+st.markdown('<p style="font-size: 18px;"><b>3. Select the method and other parameters for the generation.</b></p>',
+             unsafe_allow_html=True)
 sparql = SPARQLWrapper("https://query.wikidata.org/bigdata/namespace/wdq/sparql")
 sparql.setReturnFormat(JSON)
 QUERY = """
@@ -22,8 +46,7 @@ WHERE {
   FILTER(LANG(?description) = "en")
 }
 """
-st.set_page_config(page_title="Vossian Generarion", page_icon="🦜",
-                   layout="wide", initial_sidebar_state="collapsed", menu_items=None)
+write_footer()
 
 with open("data/pool_of_b.csv", "r", encoding="utf-8") as csvfile:
   csv_reader = csv.reader(csvfile)
