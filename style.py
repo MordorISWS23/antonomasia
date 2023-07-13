@@ -95,7 +95,7 @@ def write_footer():
         unsafe_allow_html=True
     )
     st.markdown(
-        '<div class="footer"><a href="http://localhost:8501/impressum">Impressum</a> '
+        '<div class="footer"><a href="http://localhost:8501/impressum">Imprint</a> '
         '| <a href="https://www.uni-bremen.de/en/data-privacy">Privacy Policy</a></div>',
         unsafe_allow_html=True
     )
