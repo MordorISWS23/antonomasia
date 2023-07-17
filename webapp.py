@@ -8,7 +8,7 @@ from SPARQLWrapper import SPARQLWrapper, JSON
 from streamlit_extras.add_vertical_space import add_vertical_space
 from style import write_footer, hide_menu_style, custom_style
 
-st.set_page_config(page_title="Vossian Generarion", page_icon="🦜",
+st.set_page_config(page_title="Vossians Generation", page_icon="🦜",
                    layout="wide", initial_sidebar_state="collapsed", menu_items=None)
 # add custom style
 st.markdown(custom_style, unsafe_allow_html=True)
