@@ -9,17 +9,7 @@ hide_menu_style = """
         """
 custom_style = f"""
 <style>
-[data-testid="stAppViewContainer"] > .main {{
-background: hsla(0, 0%, 100%, 1);
 
-background: linear-gradient(45deg, hsla(0, 0%, 100%, 1) 70%, hsla(326, 52%, 44%, 1) 100%);
-
-background: -moz-linear-gradient(45deg, hsla(0, 0%, 100%, 1) 70%, hsla(326, 52%, 44%, 1) 100%);
-
-background: -webkit-linear-gradient(45deg, hsla(0, 0%, 100%, 1) 70%, hsla(326, 52%, 44%, 1) 100%);
-
-filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#FFFFFF", endColorstr="#AA3678", GradientType=1 );
-}}
 
 div[data-testid="stSidebar"] {{display: none;}}
 
@@ -31,9 +21,6 @@ background: #25be8e;
 background: #F5F5F5;
 }}
 
-[data-testid="stExpander"] {{
-background: #F5F5F5;
-}}
 
 [data-testid="stSelectbox"] {{
 color: #F8F8FF;
@@ -46,6 +33,7 @@ right: 2rem;
 [data-testid="stHeader"] {{
     display: none !important;
 }}
+
 </style>
 """
 css_info = f"""
