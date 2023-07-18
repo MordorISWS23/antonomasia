@@ -30,7 +30,8 @@ pip install -r requirements.txt
 ```
 
 
-In order to use KGE, the pretrained models on Wikidata needs to be downloaded. We rely on the model shared by (GraphVite)[https://graphvite.io/] available at (https://graphvite.io/docs/latest/pretrained_model.html)[https://graphvite.io/docs/latest/pretrained_model.html].
+In order to use KGE, the pretrained models on Wikidata needs to be downloaded. We rely on the model shared by [GraphVite](https://graphvite.io/) 
+available via the following [link](https://udemontreal-my.sharepoint.com/:u:/g/personal/zhaocheng_zhu_umontreal_ca/EX4c1Ud8M61KlDUn2U_yz_sBP_bXNuFnudfhRnYzWUFA2A?download=1).
 Currently, only the TransE model is supported. Download the model locally in order to use them.
 On Linux and MacOS, this can be done using
 
