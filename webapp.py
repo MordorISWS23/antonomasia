@@ -14,6 +14,7 @@ st.set_page_config(page_title="Vossians Generation", page_icon="🦜",
 st.markdown(custom_style, unsafe_allow_html=True)
 st.markdown(hide_menu_style, unsafe_allow_html=True)
 
+
 st.title("Vossian Antonomasias")
 add_vertical_space(1)
 
@@ -58,7 +59,7 @@ with open("data/pool_of_b.csv", "r", encoding="utf-8") as csvfile:
 
 @st.cache_resource
 def load_models():
-    kge = KGE("data/transe_wikidata5m.pkl")
+    kge = KGE("data/transe_wikidata5m_small.pkl")
     word2vec = WordEmbedding("word2vec")
     glove = WordEmbedding("glove")
     st.session_state["loaded"] = True
