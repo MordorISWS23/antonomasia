@@ -1,0 +1,22 @@
+,Sentence,Model
+0,Albert Einstein was the Newton of Intellectual Revolution.,ChatGPT
+1,Albert Einstein was the Karl Liebknecht of physicists,Q8023_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+2,Albert Einstein was the Alfred Nobel of physicists,Q7245_we_cosine_word2vec_projec
+3,Albert Einstein was the William Harvey of physicists,ChatGPT
+4,Albert Einstein was the Robert Edwards of physicists,Q8023_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+5,Albert Einstein was the William Henry Harrison of physicists,Q8023_kge_euclidean_data_transe_wikidata5mpkl_translate
+6,Albert Einstein was the Syd Barrett of physicists,ChatGPT
+7,Mark Twain was the Joshua Bassett of journalists,Q8023_kge_cosine_data_transe_wikidata5mpkl_projec
+8,Mark Twain was the William the Conqueror of journalists,Q7245_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+9,Mark Twain was the Sojourner Truth of journalists,Q8023_we_cosine_word2vec_projec
+10,Mark Twain was the Kirk Douglas of journalists,Q7245_we_euclidean_word2vec_translate
+11,Mark Twain was the Rutherford B. Hayes of journalists,Q937_kge_euclidean_data_transe_wikidata5mpkl_translate
+12,Mark Twain was the Errol Flynn of journalists,Q7245_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+13,Mark Twain was the Austen of American Fiction.,Q937_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+14,Nelson Mandela was the Lumumba of Liberation Movements.,Q937_we_euclidean_word2vec_translate
+15,Nelson Mandela was the J. M. Coetzee of politicians,Q937_we_cosine_word2vec_projec
+16,Nelson Mandela was the Muhammad Yunus of politicians,Q8023_we_euclidean_word2vec_translate
+17,Nelson Mandela was the John Paul I of politicians,Q937_kge_cosine_data_transe_wikidata5mpkl_projec
+18,Nelson Mandela was the Christopher Plummer of politicians,Q937_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+19,Nelson Mandela was the Cameron Diaz of politicians,Q7245_kge_euclidean_data_transe_wikidata5mpkl_translate
+20,Nelson Mandela was the John Cena of politicians,Q7245_kge_cosine_data_transe_wikidata5mpkl_projec

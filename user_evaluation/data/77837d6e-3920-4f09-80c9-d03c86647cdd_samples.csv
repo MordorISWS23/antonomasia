@@ -1,0 +1,22 @@
+,Sentence,Model
+0,Albert Einstein was the Tesla of Conceptual Innovation.,ChatGPT
+1,Albert Einstein was the Carl Wilhelm Scheele of physicists,Q937_we_euclidean_word2vec_translate
+2,Albert Einstein was the Albert Hofmann of physicists,Q7245_kge_euclidean_data_transe_wikidata5mpkl_translate
+3,Albert Einstein was the Carl Jung of physicists,Q937_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+4,Albert Einstein was the William Morris of physicists,Q567_kge_euclidean_data_transe_wikidata5mpkl_translate
+5,Albert Einstein was the Robbie Williams of physicists,Q937_we_cosine_word2vec_projec
+6,Albert Einstein was the Boris Becker of physicists,ChatGPT
+7,Angela Merkel is the Joshua Bassett of politicians,Q7245_we_cosine_word2vec_projec
+8,Angela Merkel is the Philip Seymour Hoffman of politicians,Q937_kge_cosine_data_transe_wikidata5mpkl_projec
+9,Angela Merkel is the Eva Braun of politicians,Q567_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+10,Angela Merkel is the Jennifer Aniston of politicians,Q937_kge_euclidean_data_transe_wikidata5mpkl_translate
+11,Angela Merkel is the Eva Braun of politicians,Q7245_kge_cosine_data_transe_wikidata5mpkl_projec
+12,Angela Merkel is the Herta Müller of politicians,ChatGPT
+13,Angela Merkel is the Lincoln of Staunch Resolve.,Q7245_we_euclidean_word2vec_translate
+14,Mark Twain was the Picasso of Narrative Wit.,Q567_we_euclidean_word2vec_translate
+15,Mark Twain was the Jack Lemmon of journalists,Q567_kge_cosine_data_transe_wikidata5mpkl_projec
+16,Mark Twain was the Joseph Smith of journalists,Q937_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+17,Mark Twain was the Spencer Tracy of journalists,Q567_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+18,Mark Twain was the Kirk Douglas of journalists,Q567_we_cosine_word2vec_projec
+19,Mark Twain was the Kristen Bell of journalists,Q7245_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+20,Mark Twain was the Darth Vader of journalists,Q7245_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec

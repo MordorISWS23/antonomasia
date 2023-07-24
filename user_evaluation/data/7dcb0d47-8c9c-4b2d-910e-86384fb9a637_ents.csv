@@ -1,0 +1,22 @@
+,Unnamed: 0.1,Unnamed: 0,A,B,C,Model
+0,1680,1680,Albert Einstein,Shakespeare,Scientific Insight.,Q937_we_euclidean_word2vec_translate
+1,1125,1125,Albert Einstein,Willy Brandt,physicists,Q937_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+2,1153,1153,Albert Einstein,Edward Snowden,physicists,Q937_kge_cosine_data_transe_wikidata5mpkl_projec
+3,1222,1222,Albert Einstein,Carl Rogers,physicists,Q9960_we_euclidean_word2vec_translate
+4,1312,1312,Albert Einstein,Carl Rogers,physicists,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+5,1344,1344,Albert Einstein,William Harvey,physicists,Q5284_we_euclidean_word2vec_translate
+6,1391,1391,Albert Einstein,Marilyn Manson,physicists,Q9960_kge_euclidean_data_transe_wikidata5mpkl_translate
+20,273,273,Bill Gates,Fatima,entrepreneurs,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+19,222,222,Bill Gates,Jimmy Page,entrepreneurs,ChatGPT
+18,197,197,Bill Gates,Margaret Thatcher,entrepreneurs,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+17,105,105,Bill Gates,Sarah Palin,entrepreneurs,ChatGPT
+16,32,32,Bill Gates,Elizabeth II,entrepreneurs,ChatGPT
+15,4,4,Bill Gates,Gerhard Schröder,entrepreneurs,Q5284_we_cosine_word2vec_projec
+14,1709,1709,Bill Gates,Steve Jobs,Humanitarian Leadership.,Q9960_kge_cosine_data_transe_wikidata5mpkl_projec
+35,1734,1734,Ronald Reagan,Washington,Modern Conservatism.,Q9960_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+36,1403,1403,Ronald Reagan,Leonard Bernstein,television actors,Q937_we_cosine_word2vec_projec
+37,1436,1436,Ronald Reagan,Arthur Rubinstein,television actors,Q937_kge_euclidean_data_transe_wikidata5mpkl_translate
+38,1507,1507,Ronald Reagan,Carl Lewis,television actors,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+39,1597,1597,Ronald Reagan,Carl Lewis,television actors,Q937_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+40,1623,1623,Ronald Reagan,Carl Benz,television actors,Q9960_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+41,1678,1678,Ronald Reagan,Gregory I,television actors,Q9960_we_cosine_word2vec_projec

@@ -1,0 +1,22 @@
+,Unnamed: 0.1,Unnamed: 0,A,B,C,Model
+7,1692,1692,Angela Merkel,Catherine the Great,Leadership Acumen.,ChatGPT
+8,284,284,Angela Merkel,Günter Grass,politicians,ChatGPT
+9,316,316,Angela Merkel,Muhammad Yunus,politicians,Q567_we_cosine_word2vec_projec
+10,386,386,Angela Merkel,Thomas Mann,politicians,ChatGPT
+11,477,477,Angela Merkel,Paul Klee,politicians,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+12,502,502,Angela Merkel,Jennifer Aniston,politicians,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+13,559,559,Angela Merkel,Arthur Conan Doyle,politicians,Q9960_we_cosine_word2vec_projec
+20,272,272,Bill Gates,Cyrus the Great,entrepreneurs,Q9960_we_euclidean_word2vec_translate
+19,224,224,Bill Gates,Martin Landau,entrepreneurs,Q9960_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+18,194,194,Bill Gates,Richard Nixon,entrepreneurs,Q567_we_euclidean_word2vec_translate
+17,100,100,Bill Gates,Jude Law,entrepreneurs,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+16,32,32,Bill Gates,Elizabeth II,entrepreneurs,Q9960_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+15,2,2,Bill Gates,Gerald Ford,entrepreneurs,Q567_kge_euclidean_data_transe_wikidata5mpkl_translate
+14,1700,1700,Bill Gates,Edison,Technological Ingenuity.,Q5284_we_cosine_word2vec_projec
+35,1738,1738,Ronald Reagan,Jefferson,Reagan Revolution.,Q567_kge_cosine_data_transe_wikidata5mpkl_projec
+36,1403,1403,Ronald Reagan,Leonard Bernstein,television actors,Q5284_we_euclidean_word2vec_translate
+37,1437,1437,Ronald Reagan,"Diana, Princess of Wales",television actors,Q9960_kge_cosine_data_transe_wikidata5mpkl_projec
+38,1502,1502,Ronald Reagan,Charles Manson,television actors,Q567_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+39,1593,1593,Ronald Reagan,Jesse Owens,television actors,Q9960_kge_euclidean_data_transe_wikidata5mpkl_translate
+40,1624,1624,Ronald Reagan,Robert Edwards,television actors,Q567_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+41,1677,1677,Ronald Reagan,Rupert Murdoch,television actors,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec

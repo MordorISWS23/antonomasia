@@ -1,0 +1,22 @@
+,Sentence,Model
+0,Albert Einstein was the Shakespeare of Scientific Insight.,Q937_we_euclidean_word2vec_translate
+1,Albert Einstein was the Willy Brandt of physicists,Q7245_kge_euclidean_data_transe_wikidata5mpkl_translate
+2,Albert Einstein was the Karl Liebknecht of physicists,Q7245_we_euclidean_word2vec_translate
+3,Albert Einstein was the Philip Seymour Hoffman of physicists,Q9960_kge_euclidean_data_transe_wikidata5mpkl_translate
+4,Albert Einstein was the Robert Edwards of physicists,Q937_kge_cosine_data_transe_wikidata5mpkl_projec
+5,Albert Einstein was the Eddie Murphy of physicists,Q9960_kge_cosine_data_transe_wikidata5mpkl_projec
+6,Albert Einstein was the Sherlock Holmes of physicists,ChatGPT
+7,Mark Twain was the Percy Liza of journalists,Q7245_we_cosine_word2vec_projec
+8,Mark Twain was the Kristen Bell of journalists,Q937_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+9,Mark Twain was the Kirk Douglas of journalists,Q7245_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+10,Mark Twain was the Joseph Smith of journalists,ChatGPT
+11,Mark Twain was the Neil Armstrong of journalists,Q937_we_cosine_word2vec_projec
+12,Mark Twain was the Alfred Hitchcock of journalists,Q937_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+13,Mark Twain was the Austen of American Fiction.,ChatGPT
+14,Ronald Reagan was the Churchill of American Politics.,Q7245_kge_cosine_data_transe_wikidata5mpkl_projec
+15,"Ronald Reagan was the Diana, Princess of Wales of television actors",Q7245_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+16,Ronald Reagan was the Roald Amundsen of television actors,Q937_kge_euclidean_data_transe_wikidata5mpkl_translate
+17,Ronald Reagan was the Carl Lewis of television actors,Q9960_we_cosine_word2vec_projec
+18,Ronald Reagan was the Carl David Anderson of television actors,Q9960_we_euclidean_word2vec_translate
+19,Ronald Reagan was the Robert Wilson of television actors,Q9960_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+20,Ronald Reagan was the Syd Barrett of television actors,Q9960_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec

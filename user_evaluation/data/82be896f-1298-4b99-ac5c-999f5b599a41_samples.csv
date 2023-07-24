@@ -1,0 +1,22 @@
+,Sentence,Model
+0,Albert Einstein was the Tesla of Conceptual Innovation.,Q567_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+1,Albert Einstein was the Gerty Cori of physicists,Q8023_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+2,Albert Einstein was the Willy Brandt of physicists,Q567_kge_cosine_data_transe_wikidata5mpkl_projec
+3,Albert Einstein was the Boris Becker of physicists,Q937_we_euclidean_word2vec_translate
+4,Albert Einstein was the Harold Wilson of physicists,Q937_we_cosine_word2vec_projec
+5,Albert Einstein was the Philip Seymour Hoffman of physicists,Q8023_kge_euclidean_data_transe_wikidata5mpkl_translate
+6,Albert Einstein was the Sherlock Holmes of physicists,Q567_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+7,Angela Merkel is the Leonard Bernstein of politicians,Q937_kge_euclidean_data_transe_wikidata5mpkl_translate
+8,Angela Merkel is the Marilyn Manson of politicians,Q937_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+9,Angela Merkel is the Julian Assange of politicians,Q567_kge_euclidean_data_transe_wikidata5mpkl_translate
+10,Angela Merkel is the Eva Braun of politicians,Q8023_we_euclidean_word2vec_translate
+11,Angela Merkel is the Günter Grass of politicians,Q937_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+12,Angela Merkel is the Günter Grass of politicians,ChatGPT
+13,Angela Merkel is the Lincoln of Staunch Resolve.,Q567_we_cosine_word2vec_projec
+14,Nelson Mandela was the Sankara of Pan-Africanism.,Q8023_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+15,Nelson Mandela was the Dilma Rousseff of politicians,Q8023_we_cosine_word2vec_projec
+16,Nelson Mandela was the Edward Snowden of politicians,Q567_we_euclidean_word2vec_translate
+17,Nelson Mandela was the Robert Boyle of politicians,ChatGPT
+18,Nelson Mandela was the Ed Harris of politicians,ChatGPT
+19,Nelson Mandela was the David Silva of politicians,Q8023_kge_cosine_data_transe_wikidata5mpkl_projec
+20,Nelson Mandela was the Pamela Anderson of politicians,Q937_kge_cosine_data_transe_wikidata5mpkl_projec

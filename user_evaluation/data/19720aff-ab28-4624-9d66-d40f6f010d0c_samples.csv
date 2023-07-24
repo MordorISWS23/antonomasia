@@ -1,0 +1,22 @@
+,Sentence,Model
+0,Bill Gates is the Steve Jobs of Humanitarian Leadership.,ChatGPT
+1,Bill Gates is the Barbara Bush of entrepreneurs,Q8023_we_euclidean_word2vec_translate
+2,Bill Gates is the Harry S. Truman of entrepreneurs,ChatGPT
+3,Bill Gates is the Barbara Bush of entrepreneurs,Q8023_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+4,Bill Gates is the Richard Nixon of entrepreneurs,Q7245_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+5,Bill Gates is the Mike Pence of entrepreneurs,Q7245_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+6,Bill Gates is the Abel Tasman of entrepreneurs,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+7,Mark Twain was the Percy Liza of journalists,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+8,Mark Twain was the Emma Stone of journalists,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+9,Mark Twain was the Sojourner Truth of journalists,Q7245_we_cosine_word2vec_projec
+10,Mark Twain was the Spencer Tracy of journalists,Q8023_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+11,Mark Twain was the Sigmund Freud of journalists,Q5284_we_cosine_word2vec_projec
+12,Mark Twain was the Errol Flynn of journalists,Q7245_we_euclidean_word2vec_translate
+13,Mark Twain was the Hemingway of Satirical Prose.,Q7245_kge_cosine_data_transe_wikidata5mpkl_projec
+14,Nelson Mandela was the King Jr. of Reconciliation.,Q8023_kge_cosine_data_transe_wikidata5mpkl_projec
+15,Nelson Mandela was the François Hollande of politicians,Q8023_we_cosine_word2vec_projec
+16,Nelson Mandela was the Charles de Gaulle of politicians,ChatGPT
+17,Nelson Mandela was the Cameron Diaz of politicians,Q7245_kge_euclidean_data_transe_wikidata5mpkl_translate
+18,Nelson Mandela was the John Paul I of politicians,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+19,Nelson Mandela was the Cameron Diaz of politicians,Q8023_kge_euclidean_data_transe_wikidata5mpkl_translate
+20,Nelson Mandela was the Cameron Diaz of politicians,Q5284_we_euclidean_word2vec_translate

@@ -1,0 +1,22 @@
+,Sentence,Model
+0,Albert Einstein was the Beethoven of Mathematical Symphony.,ChatGPT
+1,Albert Einstein was the Gerhard Schröder of physicists,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+2,Albert Einstein was the Albert Hofmann of physicists,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+3,Albert Einstein was the Leonard Bernstein of physicists,Q937_we_euclidean_word2vec_translate
+4,Albert Einstein was the Carl Jung of physicists,Q567_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+5,Albert Einstein was the Julia Roberts of physicists,Q567_kge_cosine_data_transe_wikidata5mpkl_projec
+6,Albert Einstein was the Leonard Bernstein of physicists,Q937_kge_euclidean_data_transe_wikidata5mpkl_translate
+7,Angela Merkel is the Catherine Middleton of politicians,Q567_we_euclidean_word2vec_translate
+8,Angela Merkel is the Philip Seymour Hoffman of politicians,ChatGPT
+9,Angela Merkel is the Paul Klee of politicians,Q937_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+10,Angela Merkel is the Julian Assange of politicians,Q937_we_cosine_word2vec_projec
+11,Angela Merkel is the Friedrich Engels of politicians,Q937_kge_cosine_data_transe_wikidata5mpkl_projec
+12,Angela Merkel is the Edward Snowden of politicians,ChatGPT
+13,Angela Merkel is the Havel of Democratic Leadership.,Q5284_we_cosine_word2vec_projec
+14,Bill Gates is the Tesla of Technological Vision.,Q567_kge_euclidean_data_transe_wikidata5mpkl_translate
+15,Bill Gates is the Edward Kennedy of entrepreneurs,Q937_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+16,Bill Gates is the Gerald Ford of entrepreneurs,Q5284_we_euclidean_word2vec_translate
+17,Bill Gates is the Gerald Ford of entrepreneurs,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+18,Bill Gates is the Barbara Bush of entrepreneurs,Q567_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+19,Bill Gates is the Lois Lane of entrepreneurs,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+20,Bill Gates is the Darth Vader of entrepreneurs,Q567_we_cosine_word2vec_projec

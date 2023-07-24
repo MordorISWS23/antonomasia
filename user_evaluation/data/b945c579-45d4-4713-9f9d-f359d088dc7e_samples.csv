@@ -1,0 +1,22 @@
+,Sentence,Model
+0,Albert Einstein was the Picasso of Conceptual Visualization.,Q8023_kge_cosine_data_transe_wikidata5mpkl_projec
+1,Albert Einstein was the Gerty Cori of physicists,Q8023_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+2,Albert Einstein was the Carl Wilhelm Scheele of physicists,Q7245_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+3,Albert Einstein was the Carl Rogers of physicists,ChatGPT
+4,Albert Einstein was the Richard Strauss of physicists,ChatGPT
+5,Albert Einstein was the Andrew Jackson of physicists,Q7245_we_cosine_word2vec_projec
+6,Albert Einstein was the Marilyn Manson of physicists,Q7245_kge_cosine_data_transe_wikidata5mpkl_projec
+7,Mark Twain was the Percy Liza of journalists,Q7245_we_euclidean_word2vec_translate
+8,Mark Twain was the Emma Stone of journalists,Q7245_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+9,Mark Twain was the Jeff Bridges of journalists,Q8023_kge_euclidean_data_transe_wikidata5mpkl_translate
+10,Mark Twain was the Kirk Douglas of journalists,Q7245_kge_euclidean_data_transe_wikidata5mpkl_translate
+11,Mark Twain was the John Milton of journalists,Q937_kge_cosine_data_transe_wikidata5mpkl_projec
+12,Mark Twain was the Errol Flynn of journalists,Q8023_we_euclidean_word2vec_translate
+13,Mark Twain was the Hemingway of Satirical Prose.,Q937_kge_euclidean_data_transe_wikidata5mpkl_translate
+14,Nelson Mandela was the Gandhi of Peaceful Resistance.,Q8023_we_cosine_word2vec_projec
+15,Nelson Mandela was the Peter Gabriel of politicians,Q937_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+16,Nelson Mandela was the Charles de Gaulle of politicians,Q937_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+17,Nelson Mandela was the John Paul I of politicians,Q937_we_euclidean_word2vec_translate
+18,Nelson Mandela was the Edward Norton of politicians,Q937_we_cosine_word2vec_projec
+19,Nelson Mandela was the Carl Lewis of politicians,ChatGPT
+20,Nelson Mandela was the Donald Sutherland of politicians,Q8023_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec

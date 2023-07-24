@@ -1,0 +1,22 @@
+,Unnamed: 0.1,Unnamed: 0,A,B,C,Model
+7,1698,1698,Angela Merkel,Gandhi,Progressive Governance.,Q9960_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+8,288,288,Angela Merkel,Claus Schenk Graf von Stauffenberg,politicians,Q567_kge_cosine_data_transe_wikidata5mpkl_projec
+9,312,312,Angela Merkel,Friedrich Engels,politicians,Q9960_kge_euclidean_data_transe_wikidata5mpkl_translate
+10,387,387,Angela Merkel,Jessica Lange,politicians,Q9960_we_euclidean_word2vec_translate
+11,477,477,Angela Merkel,Paul Klee,politicians,Q567_we_euclidean_word2vec_translate
+12,507,507,Angela Merkel,Emma Thompson,politicians,Q7245_we_euclidean_word2vec_translate
+13,552,552,Angela Merkel,Jennifer Aniston,politicians,Q7245_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+27,839,839,Mark Twain,Cyrus the Great,journalists,Q7245_kge_euclidean_data_transe_wikidata5mpkl_translate
+26,784,784,Mark Twain,Roger Waters,journalists,Q9960_kge_cosine_data_transe_wikidata5mpkl_projec
+25,757,757,Mark Twain,John Wayne,journalists,Q9960_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+24,669,669,Mark Twain,Robin Williams,journalists,Q7245_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+23,590,590,Mark Twain,Joseph Smith,journalists,ChatGPT
+22,568,568,Mark Twain,Orson Welles,journalists,ChatGPT
+21,1716,1716,Mark Twain,Chaucer,American Vernacular.,Q7245_kge_cosine_data_transe_wikidata5mpkl_projec
+35,1730,1730,Ronald Reagan,Churchill,American Politics.,Q567_we_cosine_word2vec_projec
+36,1405,1405,Ronald Reagan,Noam Chomsky,television actors,ChatGPT
+37,1433,1433,Ronald Reagan,John D. Rockefeller,television actors,Q567_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+38,1507,1507,Ronald Reagan,Carl Lewis,television actors,Q567_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+39,1599,1599,Ronald Reagan,Carl David Anderson,television actors,Q567_kge_euclidean_data_transe_wikidata5mpkl_translate
+40,1621,1621,Ronald Reagan,George Soros,television actors,Q7245_we_cosine_word2vec_projec
+41,1678,1678,Ronald Reagan,Gregory I,television actors,Q9960_we_cosine_word2vec_projec

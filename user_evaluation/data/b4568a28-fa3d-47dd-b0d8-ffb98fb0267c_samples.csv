@@ -1,0 +1,22 @@
+,Sentence,Model
+0,Angela Merkel is the Thatcher of Resolute Statesmanship.,Q7245_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+1,Angela Merkel is the Herta Müller of politicians,Q567_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+2,Angela Merkel is the Melinda Gates of politicians,Q567_kge_cosine_data_transe_wikidata5mpkl_projec
+3,Angela Merkel is the Paul Klee of politicians,Q7245_we_euclidean_word2vec_translate
+4,Angela Merkel is the Walter Benjamin of politicians,Q7245_we_cosine_word2vec_projec
+5,Angela Merkel is the Julian Assange of politicians,Q9960_we_euclidean_word2vec_translate
+6,Angela Merkel is the Leonard Bernstein of politicians,ChatGPT
+7,Mark Twain was the Darth Vader of journalists,Q9960_kge_euclidean_data_transe_wikidata5mpkl_translate
+8,Mark Twain was the Magic Johnson of journalists,Q9960_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+9,Mark Twain was the Spencer Tracy of journalists,Q7245_kge_euclidean_data_transe_wikidata5mpkl_translate
+10,Mark Twain was the Robin Williams of journalists,Q567_we_euclidean_word2vec_translate
+11,Mark Twain was the Sigmund Freud of journalists,Q9960_we_cosine_word2vec_projec
+12,Mark Twain was the Jack Lemmon of journalists,Q567_kge_euclidean_data_transe_wikidata5mpkl_translate
+13,Mark Twain was the Dickens of American Literature.,ChatGPT
+14,Ronald Reagan was the Caesar of Strategic Vision.,ChatGPT
+15,Ronald Reagan was the Charles Manson of television actors,Q7245_kge_cosine_data_transe_wikidata5mpkl_projec
+16,Ronald Reagan was the Noam Chomsky of television actors,Q567_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+17,Ronald Reagan was the Carl David Anderson of television actors,Q7245_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+18,Ronald Reagan was the Julian Assange of television actors,Q9960_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+19,Ronald Reagan was the Carl Benz of television actors,Q9960_kge_cosine_data_transe_wikidata5mpkl_projec
+20,Ronald Reagan was the Francis Xavier of television actors,Q567_we_cosine_word2vec_projec

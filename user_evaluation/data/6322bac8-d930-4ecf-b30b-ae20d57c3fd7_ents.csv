@@ -1,0 +1,22 @@
+,Unnamed: 0.1,Unnamed: 0,A,B,C,Model
+0,1681,1681,Albert Einstein,Mozart,Intellectual Breakthroughs.,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+1,1129,1129,Albert Einstein,Gerty Cori,physicists,Q567_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+2,1156,1156,Albert Einstein,Karl Liebknecht,physicists,ChatGPT
+3,1220,1220,Albert Einstein,William Harvey,physicists,Q937_kge_cosine_data_transe_wikidata5mpkl_projec
+4,1317,1317,Albert Einstein,Philip Seymour Hoffman,physicists,Q5284_we_euclidean_word2vec_translate
+5,1348,1348,Albert Einstein,William Wallace,physicists,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+6,1394,1394,Albert Einstein,Dustin Hoffman,physicists,Q567_we_cosine_word2vec_projec
+13,557,557,Angela Merkel,Milton Friedman,politicians,Q567_kge_cosine_data_transe_wikidata5mpkl_projec
+12,509,509,Angela Merkel,Betty Williams,politicians,ChatGPT
+11,476,476,Angela Merkel,Milton Friedman,politicians,Q567_we_euclidean_word2vec_translate
+10,385,385,Angela Merkel,Milton Friedman,politicians,Q937_we_euclidean_word2vec_translate
+9,315,315,Angela Merkel,Karl Barth,politicians,Q567_kge_euclidean_data_transe_wikidata5mpkl_translate
+8,285,285,Angela Merkel,Hans-Georg Gadamer,politicians,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+7,1699,1699,Angela Merkel,Queen Elizabeth I,Political Diplomacy.,Q937_kge_euclidean_data_transe_wikidata5mpkl_translate
+14,1706,1706,Bill Gates,Mozart,Entrepreneurial Brilliance.,Q937_we_cosine_word2vec_projec
+15,0,0,Bill Gates,Barbara Bush,entrepreneurs,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+16,31,31,Bill Gates,Harry S. Truman,entrepreneurs,Q937_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+17,108,108,Bill Gates,Neil Armstrong,entrepreneurs,Q567_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+18,193,193,Bill Gates,Mike Pence,entrepreneurs,ChatGPT
+19,229,229,Bill Gates,Osama bin Laden,entrepreneurs,Q937_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+20,272,272,Bill Gates,Cyrus the Great,entrepreneurs,Q5284_we_cosine_word2vec_projec

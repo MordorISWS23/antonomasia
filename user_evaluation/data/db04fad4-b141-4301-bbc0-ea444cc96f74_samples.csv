@@ -1,0 +1,22 @@
+,Sentence,Model
+0,Albert Einstein was the Darwin of Theoretical Paradigm Shift.,ChatGPT
+1,Albert Einstein was the Karl Liebknecht of physicists,ChatGPT
+2,Albert Einstein was the Alfred Nobel of physicists,Q567_we_cosine_word2vec_projec
+3,Albert Einstein was the Philip Seymour Hoffman of physicists,Q937_we_euclidean_word2vec_translate
+4,Albert Einstein was the Robert Edwards of physicists,Q9960_we_cosine_word2vec_projec
+5,Albert Einstein was the Andrew Jackson of physicists,ChatGPT
+6,Albert Einstein was the Leonard Bernstein of physicists,Q9960_kge_cosine_data_transe_wikidata5mpkl_projec
+7,Angela Merkel is the Marilyn Monroe of politicians,Q937_kge_cosine_data_transe_wikidata5mpkl_projec
+8,Angela Merkel is the Julian Assange of politicians,Q9960_kge_euclidean_data_transe_wikidata5mpkl_translate
+9,Angela Merkel is the Jennifer Aniston of politicians,Q567_we_euclidean_word2vec_translate
+10,Angela Merkel is the Jessica Lange of politicians,Q9960_we_euclidean_word2vec_translate
+11,Angela Merkel is the Erwin Rommel of politicians,Q9960_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+12,Angela Merkel is the Herta Müller of politicians,Q9960_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+13,Angela Merkel is the Havel of Democratic Leadership.,Q567_kge_cosine_data_transe_wikidata5mpkl_projec
+14,Ronald Reagan was the Roosevelt of Conservative Leadership.,Q937_kge_euclidean_data_transe_wikidata5mpkl_translate
+15,"Ronald Reagan was the Diana, Princess of Wales of television actors",Q567_kge_euclidean_data_transe_wikidata5mpkl_translate
+16,Ronald Reagan was the Noam Chomsky of television actors,Q937_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+17,Ronald Reagan was the Julian Assange of television actors,Q937_we_cosine_word2vec_projec
+18,Ronald Reagan was the Charles Manson of television actors,Q567_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+19,Ronald Reagan was the Joseph John Thomson of television actors,Q937_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+20,Ronald Reagan was the Syd Barrett of television actors,Q567_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec

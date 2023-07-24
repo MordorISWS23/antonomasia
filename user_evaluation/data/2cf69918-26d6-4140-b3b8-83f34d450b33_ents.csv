@@ -1,0 +1,22 @@
+,Unnamed: 0.1,Unnamed: 0,A,B,C,Model
+14,1701,1701,Bill Gates,Rockefeller,Philanthropic Impact.,Q8023_kge_euclidean_data_transe_wikidata5mpkl_translate
+15,8,8,Bill Gates,Richard Nixon,entrepreneurs,Q5284_we_cosine_word2vec_projec
+16,36,36,Bill Gates,Gerald Ford,entrepreneurs,Q5284_we_euclidean_word2vec_translate
+17,103,103,Bill Gates,Gerald Ford,entrepreneurs,Q8023_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+18,195,195,Bill Gates,Sarah Palin,entrepreneurs,ChatGPT
+19,224,224,Bill Gates,Martin Landau,entrepreneurs,Q7245_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+20,279,279,Bill Gates,Frederick Sanger,entrepreneurs,Q7245_we_cosine_word2vec_projec
+27,830,830,Mark Twain,Mark the Evangelist,journalists,Q7245_we_euclidean_word2vec_translate
+26,785,785,Mark Twain,David Cameron,journalists,Q7245_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+25,752,752,Mark Twain,John Milton,journalists,Q7245_kge_euclidean_data_transe_wikidata5mpkl_translate
+24,666,666,Mark Twain,Mark the Evangelist,journalists,Q8023_kge_cosine_data_transe_wikidata5mpkl_projec
+23,591,591,Mark Twain,Alfred Hitchcock,journalists,Q8023_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+22,560,560,Mark Twain,Hal Holbrook,journalists,Q8023_we_cosine_word2vec_projec
+21,1715,1715,Mark Twain,Poe,Hilarious Anecdotes.,Q7245_kge_cosine_data_transe_wikidata5mpkl_projec
+28,1726,1726,Nelson Mandela,Sankara,Pan-Africanism.,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+29,849,849,Nelson Mandela,Bono,politicians,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+30,871,871,Nelson Mandela,Elizabeth II,politicians,ChatGPT
+31,940,940,Nelson Mandela,Edward Norton,politicians,ChatGPT
+32,1039,1039,Nelson Mandela,Paul Newman,politicians,Q8023_we_euclidean_word2vec_translate
+33,1065,1065,Nelson Mandela,Jessica Biel,politicians,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+34,1114,1114,Nelson Mandela,Sherlock Holmes,politicians,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec

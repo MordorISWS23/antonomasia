@@ -1,0 +1,22 @@
+,Unnamed: 0.1,Unnamed: 0,A,B,C,Model
+7,1692,1692,Angela Merkel,Catherine the Great,Leadership Acumen.,Q567_we_cosine_word2vec_projec
+8,286,286,Angela Merkel,Herta Müller,politicians,Q567_kge_euclidean_data_transe_wikidata5mpkl_translate
+9,316,316,Angela Merkel,Muhammad Yunus,politicians,ChatGPT
+10,383,383,Angela Merkel,Walter Benjamin,politicians,Q567_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+11,473,473,Angela Merkel,Jennifer Aniston,politicians,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+12,501,501,Angela Merkel,Susan Boyle,politicians,Q5284_we_euclidean_word2vec_translate
+13,557,557,Angela Merkel,Milton Friedman,politicians,Q567_kge_cosine_data_transe_wikidata5mpkl_projec
+20,273,273,Bill Gates,Fatima,entrepreneurs,Q567_we_euclidean_word2vec_translate
+19,221,221,Bill Gates,Jude Law,entrepreneurs,Q7245_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+18,194,194,Bill Gates,Richard Nixon,entrepreneurs,Q5284_we_cosine_word2vec_projec
+17,102,102,Bill Gates,Mike Pence,entrepreneurs,ChatGPT
+16,32,32,Bill Gates,Elizabeth II,entrepreneurs,Q567_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+15,3,3,Bill Gates,Harry S. Truman,entrepreneurs,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+14,1705,1705,Bill Gates,Shakespeare,Digital Empowerment.,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+21,1711,1711,Mark Twain,Hemingway,Satirical Prose.,Q7245_we_euclidean_word2vec_translate
+22,562,562,Mark Twain,Rutherford B. Hayes,journalists,Q7245_we_cosine_word2vec_projec
+23,593,593,Mark Twain,Orson Welles,journalists,Q7245_kge_euclidean_data_transe_wikidata5mpkl_translate
+24,665,665,Mark Twain,Sojourner Truth,journalists,Q7245_kge_cosine_data_transe_wikidata5mpkl_projec
+25,756,756,Mark Twain,Mark the Evangelist,journalists,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+26,788,788,Mark Twain,William the Conqueror,journalists,Q7245_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+27,839,839,Mark Twain,Cyrus the Great,journalists,ChatGPT

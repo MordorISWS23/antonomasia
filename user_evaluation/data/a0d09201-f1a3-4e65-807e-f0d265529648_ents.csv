@@ -1,0 +1,22 @@
+,Unnamed: 0.1,Unnamed: 0,A,B,C,Model
+14,1706,1706,Bill Gates,Mozart,Entrepreneurial Brilliance.,Q8023_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+15,9,9,Bill Gates,Donald Rumsfeld,entrepreneurs,ChatGPT
+16,36,36,Bill Gates,Gerald Ford,entrepreneurs,ChatGPT
+17,109,109,Bill Gates,Nancy Pelosi,entrepreneurs,Q9960_kge_euclidean_data_transe_wikidata5mpkl_translate
+18,191,191,Bill Gates,Barbara Bush,entrepreneurs,Q9960_we_euclidean_word2vec_translate
+19,229,229,Bill Gates,Osama bin Laden,entrepreneurs,Q9960_kge_cosine_data_transe_wikidata5mpkl_projec
+20,270,270,Bill Gates,Percy Liza,entrepreneurs,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+34,1110,1110,Nelson Mandela,Christopher Plummer,politicians,Q5284_we_euclidean_word2vec_translate
+33,1068,1068,Nelson Mandela,Carl David Anderson,politicians,Q8023_we_euclidean_word2vec_translate
+32,1032,1032,Nelson Mandela,Ed Harris,politicians,Q8023_kge_cosine_data_transe_wikidata5mpkl_projec
+31,945,945,Nelson Mandela,John Paul I,politicians,Q5284_we_cosine_word2vec_projec
+30,879,879,Nelson Mandela,J. M. Coetzee,politicians,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+29,849,849,Nelson Mandela,Bono,politicians,Q9960_we_cosine_word2vec_projec
+28,1723,1723,Nelson Mandela,Tutu,Moral Leadership.,ChatGPT
+35,1733,1733,Ronald Reagan,Kennedy,Charismatic Governance.,Q8023_kge_euclidean_data_transe_wikidata5mpkl_translate
+36,1400,1400,Ronald Reagan,Howard Hughes,television actors,Q9960_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+37,1437,1437,Ronald Reagan,"Diana, Princess of Wales",television actors,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+38,1500,1500,Ronald Reagan,Neil Armstrong,television actors,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+39,1594,1594,Ronald Reagan,George Soros,television actors,Q8023_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+40,1627,1627,Ronald Reagan,Alexander I,television actors,Q9960_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+41,1670,1670,Ronald Reagan,Leonard Bernstein,television actors,Q8023_we_cosine_word2vec_projec

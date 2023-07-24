@@ -1,0 +1,22 @@
+,Unnamed: 0.1,Unnamed: 0,A,B,C,Model
+7,1699,1699,Angela Merkel,Queen Elizabeth I,Political Diplomacy.,Q8023_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+8,285,285,Angela Merkel,Hans-Georg Gadamer,politicians,Q567_kge_cosine_data_transe_wikidata5mpkl_projec
+9,310,310,Angela Merkel,Eva Braun,politicians,Q567_we_euclidean_word2vec_translate
+10,380,380,Angela Merkel,Eva Braun,politicians,Q8023_we_euclidean_word2vec_translate
+11,474,474,Angela Merkel,Jessica Lange,politicians,Q8023_kge_cosine_data_transe_wikidata5mpkl_projec
+12,501,501,Angela Merkel,Susan Boyle,politicians,Q567_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+13,559,559,Angela Merkel,Arthur Conan Doyle,politicians,Q8023_kge_euclidean_data_transe_wikidata5mpkl_translate
+20,273,273,Bill Gates,Fatima,entrepreneurs,ChatGPT
+19,228,228,Bill Gates,Heath Ledger,entrepreneurs,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+18,194,194,Bill Gates,Richard Nixon,entrepreneurs,Q567_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+17,102,102,Bill Gates,Mike Pence,entrepreneurs,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+16,38,38,Bill Gates,Colin Powell,entrepreneurs,ChatGPT
+15,5,5,Bill Gates,Sarah Palin,entrepreneurs,Q5284_we_euclidean_word2vec_translate
+14,1701,1701,Bill Gates,Rockefeller,Philanthropic Impact.,Q567_we_cosine_word2vec_projec
+28,1723,1723,Nelson Mandela,Tutu,Moral Leadership.,Q567_kge_euclidean_data_transe_wikidata5mpkl_translate
+29,844,844,Nelson Mandela,Elizabeth II,politicians,Q8023_we_cosine_word2vec_projec
+30,878,878,Nelson Mandela,Miriam Makeba,politicians,Q8023_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+31,948,948,Nelson Mandela,Robert Boyle,politicians,ChatGPT
+32,1038,1038,Nelson Mandela,Robert Boyle,politicians,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+33,1061,1061,Nelson Mandela,Carl Lewis,politicians,Q5284_we_cosine_word2vec_projec
+34,1115,1115,Nelson Mandela,Leonard Cohen,politicians,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec

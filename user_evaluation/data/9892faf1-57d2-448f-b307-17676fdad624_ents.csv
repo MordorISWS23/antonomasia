@@ -1,0 +1,22 @@
+,Unnamed: 0.1,Unnamed: 0,A,B,C,Model
+0,1683,1683,Albert Einstein,Galileo,Thought Experiment.,Q8023_we_cosine_word2vec_projec
+1,1122,1122,Albert Einstein,Albert Hofmann,physicists,ChatGPT
+2,1152,1152,Albert Einstein,Alfred Nobel,physicists,Q937_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+3,1223,1223,Albert Einstein,Richard Strauss,physicists,Q937_kge_euclidean_data_transe_wikidata5mpkl_translate
+4,1312,1312,Albert Einstein,Carl Rogers,physicists,Q8023_kge_cosine_data_transe_wikidata5mpkl_projec
+5,1348,1348,Albert Einstein,William Wallace,physicists,Q937_kge_cosine_data_transe_wikidata5mpkl_projec
+6,1396,1396,Albert Einstein,Joshua Bassett,physicists,Q937_we_euclidean_word2vec_translate
+13,552,552,Angela Merkel,Jennifer Aniston,politicians,Q8023_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+12,501,501,Angela Merkel,Susan Boyle,politicians,Q567_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+11,476,476,Angela Merkel,Milton Friedman,politicians,Q567_kge_cosine_data_transe_wikidata5mpkl_projec
+10,385,385,Angela Merkel,Milton Friedman,politicians,ChatGPT
+9,313,313,Angela Merkel,Zbigniew Brzezinski,politicians,Q8023_we_euclidean_word2vec_translate
+8,287,287,Angela Merkel,Hermann Hesse,politicians,Q567_we_euclidean_word2vec_translate
+7,1695,1695,Angela Merkel,Joan of Arc,Political Fortitude.,ChatGPT
+28,1722,1722,Nelson Mandela,King Jr.,Reconciliation.,Q937_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+29,849,849,Nelson Mandela,Bono,politicians,Q567_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+30,879,879,Nelson Mandela,J. M. Coetzee,politicians,Q8023_kge_euclidean_data_transe_wikidata5mpkl_translate
+31,946,946,Nelson Mandela,Donald Sutherland,politicians,Q8023_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+32,1030,1030,Nelson Mandela,Edward Norton,politicians,Q567_kge_euclidean_data_transe_wikidata5mpkl_translate
+33,1065,1065,Nelson Mandela,Jessica Biel,politicians,Q567_we_cosine_word2vec_projec
+34,1116,1116,Nelson Mandela,Victor Francis Hess,politicians,Q937_we_cosine_word2vec_projec

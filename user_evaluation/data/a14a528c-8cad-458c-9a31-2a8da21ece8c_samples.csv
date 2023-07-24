@@ -1,0 +1,22 @@
+,Sentence,Model
+0,Albert Einstein was the Mozart of Intellectual Breakthroughs.,ChatGPT
+1,Albert Einstein was the Albert Hofmann of physicists,Q7245_kge_euclidean_data_transe_wikidata5mpkl_translate
+2,Albert Einstein was the Carl Jung of physicists,Q937_kge_cosine_data_transe_wikidata5mpkl_projec
+3,Albert Einstein was the Philip Seymour Hoffman of physicists,Q937_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+4,Albert Einstein was the Boris Becker of physicists,Q9960_we_cosine_word2vec_projec
+5,Albert Einstein was the William Wallace of physicists,ChatGPT
+6,Albert Einstein was the Leonard Bernstein of physicists,Q9960_kge_euclidean_data_transe_wikidata5mpkl_translate
+7,Mark Twain was the Percy Liza of journalists,Q937_kge_euclidean_data_transe_wikidata5mpkl_translate
+8,Mark Twain was the Mark the Evangelist of journalists,Q7245_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+9,Mark Twain was the Mark the Evangelist of journalists,Q7245_we_cosine_word2vec_projec
+10,Mark Twain was the Joseph Smith of journalists,Q9960_kge_cosine_data_transe_wikidata5mpkl_projec
+11,Mark Twain was the John Milton of journalists,Q9960_we_euclidean_word2vec_translate
+12,Mark Twain was the Errol Flynn of journalists,Q7245_we_euclidean_word2vec_translate
+13,Mark Twain was the Wilde of Social Commentary.,Q9960_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+14,Ronald Reagan was the Caesar of Strategic Vision.,ChatGPT
+15,Ronald Reagan was the Howard Hughes of television actors,Q7245_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+16,Ronald Reagan was the Jacqueline Kennedy Onassis of television actors,Q937_we_euclidean_word2vec_translate
+17,Ronald Reagan was the Leonard Bernstein of television actors,Q937_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+18,Ronald Reagan was the Leonard Bernstein of television actors,Q7245_kge_cosine_data_transe_wikidata5mpkl_projec
+19,Ronald Reagan was the Alexander I of television actors,Q937_we_cosine_word2vec_projec
+20,Ronald Reagan was the Syd Barrett of television actors,Q9960_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec

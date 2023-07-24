@@ -1,0 +1,22 @@
+,Unnamed: 0.1,Unnamed: 0,A,B,C,Model
+14,1705,1705,Bill Gates,Shakespeare,Digital Empowerment.,Q8023_kge_euclidean_data_transe_wikidata5mpkl_translate
+15,2,2,Bill Gates,Gerald Ford,entrepreneurs,Q8023_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+16,37,37,Bill Gates,Lyndon B. Johnson,entrepreneurs,Q5284_we_euclidean_word2vec_translate
+17,105,105,Bill Gates,Sarah Palin,entrepreneurs,Q9960_kge_cosine_data_transe_wikidata5mpkl_projec
+18,191,191,Bill Gates,Barbara Bush,entrepreneurs,Q9960_we_cosine_word2vec_projec
+19,224,224,Bill Gates,Martin Landau,entrepreneurs,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+20,276,276,Bill Gates,Otto I the Great,entrepreneurs,Q8023_we_euclidean_word2vec_translate
+34,1118,1118,Nelson Mandela,Pamela Anderson,politicians,Q9960_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+33,1067,1067,Nelson Mandela,Jerry Lewis,politicians,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+32,1036,1036,Nelson Mandela,Donald Sutherland,politicians,ChatGPT
+31,949,949,Nelson Mandela,Paul Newman,politicians,Q9960_kge_euclidean_data_transe_wikidata5mpkl_translate
+30,879,879,Nelson Mandela,J. M. Coetzee,politicians,Q8023_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+29,849,849,Nelson Mandela,Bono,politicians,Q9960_we_euclidean_word2vec_translate
+28,1725,1725,Nelson Mandela,Luther King,Human Rights.,Q5284_we_cosine_word2vec_projec
+35,1737,1737,Ronald Reagan,Caesar,Strategic Vision.,Q8023_we_cosine_word2vec_projec
+36,1406,1406,Ronald Reagan,Langston Hughes,television actors,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+37,1431,1431,Ronald Reagan,Noam Chomsky,television actors,Q9960_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+38,1502,1502,Ronald Reagan,Charles Manson,television actors,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+39,1599,1599,Ronald Reagan,Carl David Anderson,television actors,ChatGPT
+40,1629,1629,Ronald Reagan,Jesse Owens,television actors,ChatGPT
+41,1675,1675,Ronald Reagan,Charles Thomson Rees Wilson,television actors,Q8023_kge_cosine_data_transe_wikidata5mpkl_projec

@@ -1,0 +1,22 @@
+,Sentence,Model
+0,Albert Einstein was the Marie Curie of Quantum Enlightenment.,ChatGPT
+1,Albert Einstein was the Ferdinand de Saussure of physicists,Q5284_we_cosine_word2vec_projec
+2,Albert Einstein was the Edward Snowden of physicists,Q937_we_euclidean_word2vec_translate
+3,Albert Einstein was the Richard Strauss of physicists,Q567_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+4,Albert Einstein was the Carl Jung of physicists,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+5,Albert Einstein was the William Wallace of physicists,Q567_kge_cosine_data_transe_wikidata5mpkl_projec
+6,Albert Einstein was the Sherlock Holmes of physicists,Q567_we_euclidean_word2vec_translate
+7,Angela Merkel is the Leonard Bernstein of politicians,Q937_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+8,Angela Merkel is the Jennifer Aniston of politicians,Q567_we_cosine_word2vec_projec
+9,Angela Merkel is the Julian Assange of politicians,Q567_kge_euclidean_data_transe_wikidata5mpkl_translate
+10,Angela Merkel is the Oliver Kahn of politicians,ChatGPT
+11,Angela Merkel is the Heinz Guderian of politicians,ChatGPT
+12,Angela Merkel is the Hermann Hesse of politicians,Q5284_we_euclidean_word2vec_translate
+13,Angela Merkel is the Queen Elizabeth I of Political Diplomacy.,Q937_we_cosine_word2vec_projec
+14,Bill Gates is the Galileo of Technological Advancement.,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+15,Bill Gates is the Arno Allan Penzias of entrepreneurs,Q937_kge_cosine_data_transe_wikidata5mpkl_projec
+16,Bill Gates is the Neil Armstrong of entrepreneurs,Q937_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+17,Bill Gates is the Edward Kennedy of entrepreneurs,Q567_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+18,Bill Gates is the Mike Pence of entrepreneurs,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+19,Bill Gates is the Lois Lane of entrepreneurs,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+20,Bill Gates is the Jude Law of entrepreneurs,Q937_kge_euclidean_data_transe_wikidata5mpkl_translate

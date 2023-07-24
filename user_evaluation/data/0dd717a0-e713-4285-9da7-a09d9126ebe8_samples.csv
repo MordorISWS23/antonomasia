@@ -1,0 +1,22 @@
+,Sentence,Model
+0,Angela Merkel is the Catherine the Great of Leadership Acumen.,Q567_we_cosine_word2vec_projec
+1,Angela Merkel is the Herta Müller of politicians,Q567_kge_euclidean_data_transe_wikidata5mpkl_translate
+2,Angela Merkel is the Muhammad Yunus of politicians,ChatGPT
+3,Angela Merkel is the Walter Benjamin of politicians,Q567_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+4,Angela Merkel is the Jennifer Aniston of politicians,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+5,Angela Merkel is the Susan Boyle of politicians,Q5284_we_euclidean_word2vec_translate
+6,Angela Merkel is the Milton Friedman of politicians,Q567_kge_cosine_data_transe_wikidata5mpkl_projec
+7,Bill Gates is the Fatima of entrepreneurs,Q567_we_euclidean_word2vec_translate
+8,Bill Gates is the Jude Law of entrepreneurs,Q7245_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+9,Bill Gates is the Richard Nixon of entrepreneurs,Q5284_we_cosine_word2vec_projec
+10,Bill Gates is the Mike Pence of entrepreneurs,ChatGPT
+11,Bill Gates is the Elizabeth II of entrepreneurs,Q567_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+12,Bill Gates is the Harry S. Truman of entrepreneurs,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+13,Bill Gates is the Shakespeare of Digital Empowerment.,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+14,Mark Twain was the Hemingway of Satirical Prose.,Q7245_we_euclidean_word2vec_translate
+15,Mark Twain was the Rutherford B. Hayes of journalists,Q7245_we_cosine_word2vec_projec
+16,Mark Twain was the Orson Welles of journalists,Q7245_kge_euclidean_data_transe_wikidata5mpkl_translate
+17,Mark Twain was the Sojourner Truth of journalists,Q7245_kge_cosine_data_transe_wikidata5mpkl_projec
+18,Mark Twain was the Mark the Evangelist of journalists,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+19,Mark Twain was the William the Conqueror of journalists,Q7245_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+20,Mark Twain was the Cyrus the Great of journalists,ChatGPT

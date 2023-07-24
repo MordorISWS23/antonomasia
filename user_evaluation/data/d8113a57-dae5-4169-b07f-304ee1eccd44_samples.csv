@@ -1,0 +1,22 @@
+,Sentence,Model
+0,Albert Einstein was the Darwin of Theoretical Paradigm Shift.,Q937_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+1,Albert Einstein was the Ferdinand de Saussure of physicists,Q9960_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+2,Albert Einstein was the Edward Snowden of physicists,Q937_kge_euclidean_data_transe_wikidata5mpkl_translate
+3,Albert Einstein was the Richard Strauss of physicists,Q937_we_euclidean_word2vec_translate
+4,Albert Einstein was the Robert Edwards of physicists,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+5,Albert Einstein was the Philip Seymour Hoffman of physicists,Q937_kge_cosine_data_transe_wikidata5mpkl_projec
+6,Albert Einstein was the Marilyn Manson of physicists,Q937_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+7,Bill Gates is the Francisco Goya of entrepreneurs,ChatGPT
+8,Bill Gates is the Osama bin Laden of entrepreneurs,Q9960_we_euclidean_word2vec_translate
+9,Bill Gates is the Richard Nixon of entrepreneurs,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+10,Bill Gates is the Mike Pence of entrepreneurs,Q5284_we_cosine_word2vec_projec
+11,Bill Gates is the Gerald Ford of entrepreneurs,ChatGPT
+12,Bill Gates is the Colin Powell of entrepreneurs,Q5284_we_euclidean_word2vec_translate
+13,Bill Gates is the Galileo of Technological Advancement.,ChatGPT
+14,Ronald Reagan was the Lincoln of Economic Reform.,Q937_we_cosine_word2vec_projec
+15,Ronald Reagan was the Neil Armstrong of television actors,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+16,Ronald Reagan was the John D. Rockefeller of television actors,Q9960_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+17,Ronald Reagan was the Carl David Anderson of television actors,Q9960_kge_cosine_data_transe_wikidata5mpkl_projec
+18,Ronald Reagan was the Milton Friedman of television actors,Q9960_we_cosine_word2vec_projec
+19,Ronald Reagan was the Francis Xavier of television actors,Q9960_kge_euclidean_data_transe_wikidata5mpkl_translate
+20,Ronald Reagan was the Julian Assange of television actors,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate

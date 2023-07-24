@@ -1,0 +1,22 @@
+,Unnamed: 0.1,Unnamed: 0,A,B,C,Model
+0,1683,1683,Albert Einstein,Galileo,Thought Experiment.,ChatGPT
+1,1120,1120,Albert Einstein,Carl Jung,physicists,Q7245_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+2,1151,1151,Albert Einstein,Albert Hofmann,physicists,Q937_kge_euclidean_data_transe_wikidata5mpkl_translate
+3,1227,1227,Albert Einstein,Philip Seymour Hoffman,physicists,Q7245_we_euclidean_word2vec_translate
+4,1314,1314,Albert Einstein,Boris Becker,physicists,Q8023_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+5,1343,1343,Albert Einstein,Julia Roberts,physicists,ChatGPT
+6,1395,1395,Albert Einstein,Syd Barrett,physicists,Q7245_kge_euclidean_data_transe_wikidata5mpkl_translate
+27,839,839,Mark Twain,Cyrus the Great,journalists,Q8023_we_cosine_word2vec_projec
+26,784,784,Mark Twain,Roger Waters,journalists,Q937_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+25,753,753,Mark Twain,Joseph Smith,journalists,Q937_kge_cosine_data_transe_wikidata5mpkl_projec
+24,669,669,Mark Twain,Robin Williams,journalists,Q937_we_cosine_word2vec_projec
+23,592,592,Mark Twain,Neil Armstrong,journalists,ChatGPT
+22,566,566,Mark Twain,John Milton,journalists,Q8023_we_euclidean_word2vec_translate
+21,1713,1713,Mark Twain,Picasso,Narrative Wit.,Q8023_kge_cosine_data_transe_wikidata5mpkl_projec
+28,1720,1720,Nelson Mandela,Lincoln,Racial Equality.,Q7245_kge_cosine_data_transe_wikidata5mpkl_projec
+29,846,846,Nelson Mandela,J. M. Coetzee,politicians,Q8023_kge_euclidean_data_transe_wikidata5mpkl_translate
+30,879,879,Nelson Mandela,J. M. Coetzee,politicians,Q937_we_euclidean_word2vec_translate
+31,940,940,Nelson Mandela,Edward Norton,politicians,Q7245_we_cosine_word2vec_projec
+32,1034,1034,Nelson Mandela,John Paul I,politicians,Q8023_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+33,1061,1061,Nelson Mandela,Carl Lewis,politicians,Q7245_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+34,1113,1113,Nelson Mandela,John Cena,politicians,Q937_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec

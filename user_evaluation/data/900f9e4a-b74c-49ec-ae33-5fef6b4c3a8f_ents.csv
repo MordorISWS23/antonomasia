@@ -1,0 +1,22 @@
+,Unnamed: 0.1,Unnamed: 0,A,B,C,Model
+0,1684,1684,Albert Einstein,Picasso,Conceptual Visualization.,Q567_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+1,1129,1129,Albert Einstein,Gerty Cori,physicists,Q5284_we_euclidean_word2vec_translate
+2,1157,1157,Albert Einstein,Jezus Christus,physicists,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+3,1223,1223,Albert Einstein,Richard Strauss,physicists,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+4,1313,1313,Albert Einstein,Richard Strauss,physicists,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+5,1348,1348,Albert Einstein,William Wallace,physicists,ChatGPT
+6,1392,1392,Albert Einstein,Leonard Bernstein,physicists,Q937_kge_cosine_data_transe_wikidata5mpkl_projec
+13,556,556,Angela Merkel,Catherine Middleton,politicians,Q567_we_cosine_word2vec_projec
+12,503,503,Angela Merkel,Jennifer Lawrence,politicians,Q937_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+11,475,475,Angela Merkel,Thomas Mann,politicians,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+10,389,389,Angela Merkel,Helen Keller,politicians,Q5284_we_cosine_word2vec_projec
+9,318,318,Angela Merkel,Melinda Gates,politicians,Q937_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+8,282,282,Angela Merkel,Edward Snowden,politicians,ChatGPT
+7,1695,1695,Angela Merkel,Joan of Arc,Political Fortitude.,Q937_we_euclidean_word2vec_translate
+14,1702,1702,Bill Gates,Tesla,Technological Vision.,Q567_we_euclidean_word2vec_translate
+15,6,6,Bill Gates,Edward Kennedy,entrepreneurs,Q567_kge_euclidean_data_transe_wikidata5mpkl_translate
+16,34,34,Bill Gates,Franklin Delano Roosevelt,entrepreneurs,Q937_kge_euclidean_data_transe_wikidata5mpkl_translate
+17,107,107,Bill Gates,Margaret Thatcher,entrepreneurs,Q567_kge_cosine_data_transe_wikidata5mpkl_projec
+18,198,198,Bill Gates,Neil Armstrong,entrepreneurs,Q937_we_cosine_word2vec_projec
+19,228,228,Bill Gates,Heath Ledger,entrepreneurs,Q567_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+20,278,278,Bill Gates,Maurice Ravel,entrepreneurs,ChatGPT

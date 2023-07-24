@@ -1,0 +1,22 @@
+,Unnamed: 0.1,Unnamed: 0,A,B,C,Model
+7,1699,1699,Angela Merkel,Queen Elizabeth I,Political Diplomacy.,Q9960_we_euclidean_word2vec_translate
+8,285,285,Angela Merkel,Hans-Georg Gadamer,politicians,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+9,313,313,Angela Merkel,Zbigniew Brzezinski,politicians,ChatGPT
+10,389,389,Angela Merkel,Helen Keller,politicians,Q567_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+11,476,476,Angela Merkel,Milton Friedman,politicians,ChatGPT
+12,500,500,Angela Merkel,Philip Seymour Hoffman,politicians,Q567_kge_cosine_data_transe_wikidata5mpkl_projec
+13,558,558,Angela Merkel,Leonard Bernstein,politicians,Q567_kge_euclidean_data_transe_wikidata5mpkl_translate
+20,275,275,Bill Gates,Abel Tasman,entrepreneurs,Q567_we_cosine_word2vec_projec
+19,226,226,Bill Gates,Eden Hazard,entrepreneurs,Q9960_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+18,190,190,Bill Gates,Jude Law,entrepreneurs,Q5284_we_cosine_word2vec_projec
+17,108,108,Bill Gates,Neil Armstrong,entrepreneurs,Q5284_we_euclidean_word2vec_translate
+16,37,37,Bill Gates,Lyndon B. Johnson,entrepreneurs,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+15,5,5,Bill Gates,Sarah Palin,entrepreneurs,Q9960_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+14,1709,1709,Bill Gates,Steve Jobs,Humanitarian Leadership.,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+35,1737,1737,Ronald Reagan,Caesar,Strategic Vision.,ChatGPT
+36,1406,1406,Ronald Reagan,Langston Hughes,television actors,Q9960_we_cosine_word2vec_projec
+37,1432,1432,Ronald Reagan,Jacqueline Kennedy Onassis,television actors,Q567_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+38,1504,1504,Ronald Reagan,George Soros,television actors,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+39,1599,1599,Ronald Reagan,Carl David Anderson,television actors,Q9960_kge_euclidean_data_transe_wikidata5mpkl_translate
+40,1623,1623,Ronald Reagan,Carl Benz,television actors,Q567_we_euclidean_word2vec_translate
+41,1674,1674,Ronald Reagan,Milton Friedman,television actors,Q9960_kge_cosine_data_transe_wikidata5mpkl_projec

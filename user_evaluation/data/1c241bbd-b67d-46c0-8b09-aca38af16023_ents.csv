@@ -1,0 +1,22 @@
+,Unnamed: 0.1,Unnamed: 0,A,B,C,Model
+0,1689,1689,Albert Einstein,Tesla,Conceptual Innovation.,Q8023_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+1,1121,1121,Albert Einstein,Carl Wilhelm Scheele,physicists,Q8023_kge_cosine_data_transe_wikidata5mpkl_projec
+2,1153,1153,Albert Einstein,Edward Snowden,physicists,Q8023_kge_euclidean_data_transe_wikidata5mpkl_translate
+3,1223,1223,Albert Einstein,Richard Strauss,physicists,Q937_kge_euclidean_data_transe_wikidata5mpkl_translate
+4,1314,1314,Albert Einstein,Boris Becker,physicists,Q567_we_euclidean_word2vec_translate
+5,1349,1349,Albert Einstein,Edward Norton,physicists,Q937_kge_cosine_data_transe_wikidata5mpkl_projec
+6,1395,1395,Albert Einstein,Syd Barrett,physicists,Q937_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+13,550,550,Angela Merkel,Julian Assange,politicians,Q567_kge_cosine_data_transe_wikidata5mpkl_projec
+12,504,504,Angela Merkel,Spencer Tracy,politicians,Q8023_we_euclidean_word2vec_translate
+11,479,479,Angela Merkel,Helen Keller,politicians,Q937_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+10,382,382,Angela Merkel,Jennifer Aniston,politicians,Q937_we_euclidean_word2vec_translate
+9,312,312,Angela Merkel,Friedrich Engels,politicians,Q8023_we_cosine_word2vec_projec
+8,285,285,Angela Merkel,Hans-Georg Gadamer,politicians,ChatGPT
+7,1691,1691,Angela Merkel,Mandela,Political Pragmatism.,ChatGPT
+28,1722,1722,Nelson Mandela,King Jr.,Reconciliation.,Q937_we_cosine_word2vec_projec
+29,848,848,Nelson Mandela,Peter Gabriel,politicians,Q567_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+30,870,870,Nelson Mandela,Nadine Gordimer,politicians,ChatGPT
+31,948,948,Nelson Mandela,Robert Boyle,politicians,Q567_kge_euclidean_data_transe_wikidata5mpkl_translate
+32,1036,1036,Nelson Mandela,Donald Sutherland,politicians,Q8023_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+33,1067,1067,Nelson Mandela,Jerry Lewis,politicians,Q567_we_cosine_word2vec_projec
+34,1112,1112,Nelson Mandela,Walt Whitman,politicians,Q567_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate

@@ -1,0 +1,22 @@
+,Unnamed: 0.1,Unnamed: 0,A,B,C,Model
+0,1689,1689,Albert Einstein,Tesla,Conceptual Innovation.,Q9960_kge_euclidean_data_transe_wikidata5mpkl_translate
+1,1121,1121,Albert Einstein,Carl Wilhelm Scheele,physicists,Q5284_we_cosine_word2vec_projec
+2,1153,1153,Albert Einstein,Edward Snowden,physicists,Q5284_we_euclidean_word2vec_translate
+3,1226,1226,Albert Einstein,Carl Jung,physicists,ChatGPT
+4,1316,1316,Albert Einstein,Carl Jung,physicists,Q937_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+5,1345,1345,Albert Einstein,Eddie Murphy,physicists,Q937_kge_cosine_data_transe_wikidata5mpkl_projec
+6,1391,1391,Albert Einstein,Marilyn Manson,physicists,ChatGPT
+20,277,277,Bill Gates,Jude Law,entrepreneurs,Q937_kge_euclidean_data_transe_wikidata5mpkl_translate
+19,228,228,Bill Gates,Heath Ledger,entrepreneurs,Q937_we_cosine_word2vec_projec
+18,197,197,Bill Gates,Margaret Thatcher,entrepreneurs,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+17,102,102,Bill Gates,Mike Pence,entrepreneurs,Q9960_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+16,38,38,Bill Gates,Colin Powell,entrepreneurs,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+15,0,0,Bill Gates,Barbara Bush,entrepreneurs,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+14,1706,1706,Bill Gates,Mozart,Entrepreneurial Brilliance.,Q9960_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+35,1730,1730,Ronald Reagan,Churchill,American Politics.,Q9960_we_cosine_word2vec_projec
+36,1406,1406,Ronald Reagan,Langston Hughes,television actors,Q9960_we_euclidean_word2vec_translate
+37,1431,1431,Ronald Reagan,Noam Chomsky,television actors,Q9960_kge_cosine_data_transe_wikidata5mpkl_projec
+38,1505,1505,Ronald Reagan,Milton Friedman,television actors,Q937_we_euclidean_word2vec_translate
+39,1599,1599,Ronald Reagan,Carl David Anderson,television actors,ChatGPT
+40,1626,1626,Ronald Reagan,Francis Xavier,television actors,Q937_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+41,1675,1675,Ronald Reagan,Charles Thomson Rees Wilson,television actors,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate

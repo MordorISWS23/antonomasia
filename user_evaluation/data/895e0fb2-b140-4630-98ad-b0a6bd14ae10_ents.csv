@@ -1,0 +1,22 @@
+,Unnamed: 0.1,Unnamed: 0,A,B,C,Model
+7,1696,1696,Angela Merkel,Havel,Democratic Leadership.,Q8023_kge_euclidean_data_transe_wikidata5mpkl_translate
+8,286,286,Angela Merkel,Herta Müller,politicians,Q8023_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+9,311,311,Angela Merkel,Erwin Rommel,politicians,Q5284_we_cosine_word2vec_projec
+10,383,383,Angela Merkel,Walter Benjamin,politicians,Q567_kge_cosine_data_transe_wikidata5mpkl_projec
+11,477,477,Angela Merkel,Paul Klee,politicians,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+12,508,508,Angela Merkel,Marilyn Monroe,politicians,Q567_kge_euclidean_data_transe_wikidata5mpkl_translate
+13,552,552,Angela Merkel,Jennifer Aniston,politicians,Q567_we_euclidean_word2vec_translate
+20,272,272,Bill Gates,Cyrus the Great,entrepreneurs,Q567_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+19,223,223,Bill Gates,Hugh Grant,entrepreneurs,Q8023_we_cosine_word2vec_projec
+18,199,199,Bill Gates,Nancy Pelosi,entrepreneurs,ChatGPT
+17,100,100,Bill Gates,Jude Law,entrepreneurs,Q8023_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+16,39,39,Bill Gates,Sarah Palin,entrepreneurs,ChatGPT
+15,0,0,Bill Gates,Barbara Bush,entrepreneurs,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+14,1701,1701,Bill Gates,Rockefeller,Philanthropic Impact.,Q567_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+28,1720,1720,Nelson Mandela,Lincoln,Racial Equality.,Q567_we_cosine_word2vec_projec
+29,845,845,Nelson Mandela,François Hollande,politicians,ChatGPT
+30,872,872,Nelson Mandela,Shakira,politicians,Q8023_we_euclidean_word2vec_translate
+31,943,943,Nelson Mandela,Anthony Hopkins,politicians,Q8023_kge_cosine_data_transe_wikidata5mpkl_projec
+32,1037,1037,Nelson Mandela,Christopher Plummer,politicians,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+33,1060,1060,Nelson Mandela,Cameron Diaz,politicians,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+34,1111,1111,Nelson Mandela,Kelly Clarkson,politicians,Q5284_we_euclidean_word2vec_translate
