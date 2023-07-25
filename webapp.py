@@ -144,7 +144,6 @@ with tab_gen:
 
         B_id = next(filter(lambda x: x.label == B, pool_of_b)).wikidata_iri
 
-
         with st.expander(
                 f"[{A}](https://www.wikidata.org/wiki/{A_id}){sentence.split(A)[-1].split(B)[0]}[{B}](https://www.wikidata.org/wiki/{B_id}){sentence.split(B)[-1]}"):
 
@@ -153,16 +152,21 @@ with tab_gen:
             with left:
                 sparql.setQuery(QUERY % A_id)
                 ret = sparql.queryAndConvert()
-                pic = ret["results"]["bindings"][0]["pic"]["value"]
-                desc = ret["results"]["bindings"][0]["description"]["value"]
-                st.image(pic, caption=desc)
-
+                try:
+                    pic = ret["results"]["bindings"][0]["pic"]["value"]
+                    desc = ret["results"]["bindings"][0]["description"]["value"]
+                    st.image(pic, caption=desc)
+                except IndexError:
+                    st.info(f"There is no picture available for {A}")
             with right:
                 sparql.setQuery(QUERY % B_id)
                 ret = sparql.queryAndConvert()
-                pic = ret["results"]["bindings"][0]["pic"]["value"]
-                desc = ret["results"]["bindings"][0]["description"]["value"]
-                st.image(pic, caption=desc)
+                try:
+                    pic = ret["results"]["bindings"][0]["pic"]["value"]
+                    desc = ret["results"]["bindings"][0]["description"]["value"]
+                    st.image(pic, caption=desc)
+                except IndexError:
+                    st.info(f"There is no picture available for {B}")
 
             if 0 <= conf <= 1:
                 st.progress(float(conf), text=f"Confidence {conf:0.2f}")
