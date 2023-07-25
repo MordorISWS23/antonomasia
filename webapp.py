@@ -1,3 +1,5 @@
+import re
+
 import streamlit as st
 import csv
 from antonomasia.embeddings import KGE, WordEmbedding, MetaEmbedding
@@ -57,6 +59,19 @@ with open("data/pool_of_b.csv", "r", encoding="utf-8") as csvfile:
     pool_of_b = [Sample(row[0].split("/")[-1], row[1], row[-1].split("_")) for row in csv_reader]
 
 
+def parse_sentence(sentence):
+    pattern_was = r'(.*)(\swas\sthe\s)(.*)(\sof\s)(.*)'
+    pattern_is = r'(.*)(\sis\sthe\s)(.*)(\sof\s)(.*)'
+    if sentence.find("was"):
+        match = re.search(pattern_was, sentence)
+        if match:
+            return [match.group(1), match.group(3), match.group(5)]
+    if sentence.find("is"):
+        match = re.search(pattern_is, sentence)
+        if match:
+            return [match.group(1), match.group(3), match.group(5)]
+
+
 @st.cache_resource
 def load_models():
     kge = KGE("data/transe_wikidata5m_small.pkl")
@@ -72,13 +87,13 @@ def load_models():
     }
 
 
-placeholder_info = st.empty()
-if st.session_state["loaded"] is False:
-    placeholder_info = st.info("It make take some time to load the models. We appreciate your patience.")
-
+# placeholder_info = st.empty()
+# if st.session_state["loaded"] is False:
+#     placeholder_info = st.info("It make take some time to load the models. We appreciate your patience.")
+# if st.session_state["loaded"] is True:
+#     placeholder_info.empty()
 models = load_models()
-if st.session_state["loaded"] is True:
-    placeholder_info.empty()
+
 
 method_model_map = {
     "kge": "Knowledge Graph Embeddings",
@@ -119,12 +134,16 @@ with tab_gen:
     for i, (idx, conf) in enumerate(zip(top_k, sim)):
         b = b_ids[idx]
         sentence = verb.generate_sentence(select_a, b, profession_pred)
+        parsed = parse_sentence(sentence)
 
-        A = sentence.split(" is")[0] if "is the" in sentence else sentence.split(" was")[0]
+        #A = sentence.split(" is")[0] if "is the" in sentence else sentence.split(" was")[0]
+        A = parsed[0]
         A_id = next(filter(lambda x: x.label == A, pool_of_b)).wikidata_iri
 
-        B = sentence.split("the ")[-1].split(" of")[0]
+        B = parsed[1]
+
         B_id = next(filter(lambda x: x.label == B, pool_of_b)).wikidata_iri
+
 
         with st.expander(
                 f"[{A}](https://www.wikidata.org/wiki/{A_id}){sentence.split(A)[-1].split(B)[0]}[{B}](https://www.wikidata.org/wiki/{B_id}){sentence.split(B)[-1]}"):
