@@ -1,0 +1,22 @@
+,Sentence,Model
+0,Bill Gates is the Mozart of Entrepreneurial Brilliance.,Q8023_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+1,Bill Gates is the Donald Rumsfeld of entrepreneurs,ChatGPT
+2,Bill Gates is the Gerald Ford of entrepreneurs,ChatGPT
+3,Bill Gates is the Nancy Pelosi of entrepreneurs,Q9960_kge_euclidean_data_transe_wikidata5mpkl_translate
+4,Bill Gates is the Barbara Bush of entrepreneurs,Q9960_we_euclidean_word2vec_translate
+5,Bill Gates is the Osama bin Laden of entrepreneurs,Q9960_kge_cosine_data_transe_wikidata5mpkl_projec
+6,Bill Gates is the Percy Liza of entrepreneurs,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+7,Nelson Mandela was the Christopher Plummer of politicians,Q5284_we_euclidean_word2vec_translate
+8,Nelson Mandela was the Carl David Anderson of politicians,Q8023_we_euclidean_word2vec_translate
+9,Nelson Mandela was the Ed Harris of politicians,Q8023_kge_cosine_data_transe_wikidata5mpkl_projec
+10,Nelson Mandela was the John Paul I of politicians,Q5284_we_cosine_word2vec_projec
+11,Nelson Mandela was the J. M. Coetzee of politicians,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+12,Nelson Mandela was the Bono of politicians,Q9960_we_cosine_word2vec_projec
+13,Nelson Mandela was the Tutu of Moral Leadership.,ChatGPT
+14,Ronald Reagan was the Kennedy of Charismatic Governance.,Q8023_kge_euclidean_data_transe_wikidata5mpkl_translate
+15,Ronald Reagan was the Howard Hughes of television actors,Q9960_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+16,"Ronald Reagan was the Diana, Princess of Wales of television actors",Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+17,Ronald Reagan was the Neil Armstrong of television actors,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+18,Ronald Reagan was the George Soros of television actors,Q8023_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+19,Ronald Reagan was the Alexander I of television actors,Q9960_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+20,Ronald Reagan was the Leonard Bernstein of television actors,Q8023_we_cosine_word2vec_projec

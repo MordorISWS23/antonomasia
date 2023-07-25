@@ -1,0 +1,22 @@
+,Unnamed: 0.1,Unnamed: 0,A,B,C,Model
+0,1689,1689,Albert Einstein,Tesla,Conceptual Innovation.,ChatGPT
+1,1121,1121,Albert Einstein,Carl Wilhelm Scheele,physicists,Q937_we_euclidean_word2vec_translate
+2,1151,1151,Albert Einstein,Albert Hofmann,physicists,Q7245_kge_euclidean_data_transe_wikidata5mpkl_translate
+3,1226,1226,Albert Einstein,Carl Jung,physicists,Q937_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+4,1319,1319,Albert Einstein,William Morris,physicists,Q567_kge_euclidean_data_transe_wikidata5mpkl_translate
+5,1347,1347,Albert Einstein,Robbie Williams,physicists,Q937_we_cosine_word2vec_projec
+6,1390,1390,Albert Einstein,Boris Becker,physicists,ChatGPT
+13,555,555,Angela Merkel,Joshua Bassett,politicians,Q7245_we_cosine_word2vec_projec
+12,500,500,Angela Merkel,Philip Seymour Hoffman,politicians,Q937_kge_cosine_data_transe_wikidata5mpkl_projec
+11,470,470,Angela Merkel,Eva Braun,politicians,Q567_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+10,382,382,Angela Merkel,Jennifer Aniston,politicians,Q937_kge_euclidean_data_transe_wikidata5mpkl_translate
+9,310,310,Angela Merkel,Eva Braun,politicians,Q7245_kge_cosine_data_transe_wikidata5mpkl_projec
+8,286,286,Angela Merkel,Herta Müller,politicians,ChatGPT
+7,1693,1693,Angela Merkel,Lincoln,Staunch Resolve.,Q7245_we_euclidean_word2vec_translate
+21,1713,1713,Mark Twain,Picasso,Narrative Wit.,Q567_we_euclidean_word2vec_translate
+22,569,569,Mark Twain,Jack Lemmon,journalists,Q567_kge_cosine_data_transe_wikidata5mpkl_projec
+23,590,590,Mark Twain,Joseph Smith,journalists,Q937_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+24,664,664,Mark Twain,Spencer Tracy,journalists,Q567_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+25,758,758,Mark Twain,Kirk Douglas,journalists,Q567_we_cosine_word2vec_projec
+26,787,787,Mark Twain,Kristen Bell,journalists,Q7245_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+27,837,837,Mark Twain,Darth Vader,journalists,Q7245_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec

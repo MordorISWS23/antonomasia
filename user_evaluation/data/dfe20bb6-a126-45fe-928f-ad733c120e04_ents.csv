@@ -1,0 +1,22 @@
+,Unnamed: 0.1,Unnamed: 0,A,B,C,Model
+0,1682,1682,Albert Einstein,Da Vinci,Rationality.,Q9960_kge_euclidean_data_transe_wikidata5mpkl_translate
+1,1123,1123,Albert Einstein,Karl Liebknecht,physicists,Q567_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+2,1154,1154,Albert Einstein,Willy Brandt,physicists,Q9960_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+3,1225,1225,Albert Einstein,Leonard Bernstein,physicists,Q567_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+4,1311,1311,Albert Einstein,Robert Edwards,physicists,Q567_we_cosine_word2vec_projec
+5,1347,1347,Albert Einstein,Robbie Williams,physicists,ChatGPT
+6,1390,1390,Albert Einstein,Boris Becker,physicists,Q567_kge_cosine_data_transe_wikidata5mpkl_projec
+13,555,555,Angela Merkel,Joshua Bassett,politicians,Q567_we_euclidean_word2vec_translate
+12,500,500,Angela Merkel,Philip Seymour Hoffman,politicians,Q937_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+11,471,471,Angela Merkel,Julian Assange,politicians,Q567_kge_euclidean_data_transe_wikidata5mpkl_translate
+10,385,385,Angela Merkel,Milton Friedman,politicians,Q937_kge_euclidean_data_transe_wikidata5mpkl_translate
+9,311,311,Angela Merkel,Erwin Rommel,politicians,ChatGPT
+8,289,289,Angela Merkel,Martin Niemöller,politicians,Q937_we_euclidean_word2vec_translate
+7,1694,1694,Angela Merkel,Thatcher,Resolute Statesmanship.,Q9960_kge_cosine_data_transe_wikidata5mpkl_projec
+35,1735,1735,Ronald Reagan,Thatcher,American Presidency.,Q9960_we_cosine_word2vec_projec
+36,1407,1407,Ronald Reagan,Charles Manson,television actors,Q9960_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+37,1435,1435,Ronald Reagan,Melania Trump,television actors,Q937_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+38,1502,1502,Ronald Reagan,Charles Manson,television actors,ChatGPT
+39,1591,1591,Ronald Reagan,Leonard Bernstein,television actors,Q937_we_cosine_word2vec_projec
+40,1624,1624,Ronald Reagan,Robert Edwards,television actors,Q937_kge_cosine_data_transe_wikidata5mpkl_projec
+41,1674,1674,Ronald Reagan,Milton Friedman,television actors,Q9960_we_euclidean_word2vec_translate

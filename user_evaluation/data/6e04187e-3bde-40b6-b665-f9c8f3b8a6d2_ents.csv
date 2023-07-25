@@ -1,0 +1,22 @@
+,Unnamed: 0.1,Unnamed: 0,A,B,C,Model
+7,1698,1698,Angela Merkel,Gandhi,Progressive Governance.,Q567_kge_cosine_data_transe_wikidata5mpkl_projec
+8,283,283,Angela Merkel,Friedrich Engels,politicians,ChatGPT
+9,310,310,Angela Merkel,Eva Braun,politicians,ChatGPT
+10,382,382,Angela Merkel,Jennifer Aniston,politicians,Q567_we_euclidean_word2vec_translate
+11,475,475,Angela Merkel,Thomas Mann,politicians,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+12,503,503,Angela Merkel,Jennifer Lawrence,politicians,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+13,550,550,Angela Merkel,Julian Assange,politicians,Q5284_we_euclidean_word2vec_translate
+20,275,275,Bill Gates,Abel Tasman,entrepreneurs,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+19,229,229,Bill Gates,Osama bin Laden,entrepreneurs,Q5284_we_cosine_word2vec_projec
+18,191,191,Bill Gates,Barbara Bush,entrepreneurs,Q7245_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+17,107,107,Bill Gates,Margaret Thatcher,entrepreneurs,Q567_kge_euclidean_data_transe_wikidata5mpkl_translate
+16,33,33,Bill Gates,Neil Armstrong,entrepreneurs,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+15,5,5,Bill Gates,Sarah Palin,entrepreneurs,Q567_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+14,1707,1707,Bill Gates,Galileo,Technological Advancement.,Q7245_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+21,1715,1715,Mark Twain,Poe,Hilarious Anecdotes.,Q7245_we_cosine_word2vec_projec
+22,560,560,Mark Twain,Hal Holbrook,journalists,Q567_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+23,596,596,Mark Twain,John Milton,journalists,Q7245_we_euclidean_word2vec_translate
+24,669,669,Mark Twain,Robin Williams,journalists,Q7245_kge_euclidean_data_transe_wikidata5mpkl_translate
+25,754,754,Mark Twain,Spencer Tracy,journalists,ChatGPT
+26,785,785,Mark Twain,David Cameron,journalists,Q7245_kge_cosine_data_transe_wikidata5mpkl_projec
+27,835,835,Mark Twain,Frederick Sanger,journalists,Q567_we_cosine_word2vec_projec

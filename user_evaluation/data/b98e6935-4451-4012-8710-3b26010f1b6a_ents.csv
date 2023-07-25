@@ -1,0 +1,22 @@
+,Unnamed: 0.1,Unnamed: 0,A,B,C,Model
+0,1684,1684,Albert Einstein,Picasso,Conceptual Visualization.,Q567_we_euclidean_word2vec_translate
+1,1129,1129,Albert Einstein,Gerty Cori,physicists,Q9960_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+2,1156,1156,Albert Einstein,Karl Liebknecht,physicists,Q937_we_euclidean_word2vec_translate
+3,1225,1225,Albert Einstein,Leonard Bernstein,physicists,Q567_kge_cosine_data_transe_wikidata5mpkl_projec
+4,1310,1310,Albert Einstein,William Harvey,physicists,Q567_we_cosine_word2vec_projec
+5,1344,1344,Albert Einstein,William Harvey,physicists,Q9960_we_cosine_word2vec_projec
+6,1390,1390,Albert Einstein,Boris Becker,physicists,Q937_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+13,556,556,Angela Merkel,Catherine Middleton,politicians,Q9960_kge_cosine_data_transe_wikidata5mpkl_projec
+12,502,502,Angela Merkel,Jennifer Aniston,politicians,Q9960_kge_euclidean_data_transe_wikidata5mpkl_translate
+11,476,476,Angela Merkel,Milton Friedman,politicians,Q937_kge_cosine_data_transe_wikidata5mpkl_projec
+10,387,387,Angela Merkel,Jessica Lange,politicians,ChatGPT
+9,311,311,Angela Merkel,Erwin Rommel,politicians,ChatGPT
+8,283,283,Angela Merkel,Friedrich Engels,politicians,Q937_we_cosine_word2vec_projec
+7,1698,1698,Angela Merkel,Gandhi,Progressive Governance.,ChatGPT
+35,1735,1735,Ronald Reagan,Thatcher,American Presidency.,Q937_kge_euclidean_data_transe_wikidata5mpkl_translate
+36,1402,1402,Ronald Reagan,Henry Wadsworth Longfellow,television actors,Q567_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+37,1437,1437,Ronald Reagan,"Diana, Princess of Wales",television actors,Q9960_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+38,1509,1509,Ronald Reagan,Carl David Anderson,television actors,Q567_kge_euclidean_data_transe_wikidata5mpkl_translate
+39,1596,1596,Ronald Reagan,Julian Assange,television actors,Q937_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+40,1627,1627,Ronald Reagan,Alexander I,television actors,Q567_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+41,1679,1679,Ronald Reagan,Syd Barrett,television actors,Q9960_we_euclidean_word2vec_translate

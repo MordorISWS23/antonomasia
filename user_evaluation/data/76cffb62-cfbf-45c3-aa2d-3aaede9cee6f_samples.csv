@@ -1,0 +1,22 @@
+,Sentence,Model
+0,Bill Gates is the Shakespeare of Digital Empowerment.,Q8023_kge_euclidean_data_transe_wikidata5mpkl_translate
+1,Bill Gates is the Gerald Ford of entrepreneurs,Q8023_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+2,Bill Gates is the Lyndon B. Johnson of entrepreneurs,Q5284_we_euclidean_word2vec_translate
+3,Bill Gates is the Sarah Palin of entrepreneurs,Q9960_kge_cosine_data_transe_wikidata5mpkl_projec
+4,Bill Gates is the Barbara Bush of entrepreneurs,Q9960_we_cosine_word2vec_projec
+5,Bill Gates is the Martin Landau of entrepreneurs,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+6,Bill Gates is the Otto I the Great of entrepreneurs,Q8023_we_euclidean_word2vec_translate
+7,Nelson Mandela was the Pamela Anderson of politicians,Q9960_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+8,Nelson Mandela was the Jerry Lewis of politicians,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+9,Nelson Mandela was the Donald Sutherland of politicians,ChatGPT
+10,Nelson Mandela was the Paul Newman of politicians,Q9960_kge_euclidean_data_transe_wikidata5mpkl_translate
+11,Nelson Mandela was the J. M. Coetzee of politicians,Q8023_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+12,Nelson Mandela was the Bono of politicians,Q9960_we_euclidean_word2vec_translate
+13,Nelson Mandela was the Luther King of Human Rights.,Q5284_we_cosine_word2vec_projec
+14,Ronald Reagan was the Caesar of Strategic Vision.,Q8023_we_cosine_word2vec_projec
+15,Ronald Reagan was the Langston Hughes of television actors,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+16,Ronald Reagan was the Noam Chomsky of television actors,Q9960_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+17,Ronald Reagan was the Charles Manson of television actors,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+18,Ronald Reagan was the Carl David Anderson of television actors,ChatGPT
+19,Ronald Reagan was the Jesse Owens of television actors,ChatGPT
+20,Ronald Reagan was the Charles Thomson Rees Wilson of television actors,Q8023_kge_cosine_data_transe_wikidata5mpkl_projec

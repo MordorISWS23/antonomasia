@@ -1,0 +1,22 @@
+,Sentence,Model
+0,Angela Merkel is the Queen Elizabeth I of Political Diplomacy.,Q8023_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+1,Angela Merkel is the Hans-Georg Gadamer of politicians,Q567_kge_cosine_data_transe_wikidata5mpkl_projec
+2,Angela Merkel is the Eva Braun of politicians,Q567_we_euclidean_word2vec_translate
+3,Angela Merkel is the Eva Braun of politicians,Q8023_we_euclidean_word2vec_translate
+4,Angela Merkel is the Jessica Lange of politicians,Q8023_kge_cosine_data_transe_wikidata5mpkl_projec
+5,Angela Merkel is the Susan Boyle of politicians,Q567_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+6,Angela Merkel is the Arthur Conan Doyle of politicians,Q8023_kge_euclidean_data_transe_wikidata5mpkl_translate
+7,Bill Gates is the Fatima of entrepreneurs,ChatGPT
+8,Bill Gates is the Heath Ledger of entrepreneurs,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+9,Bill Gates is the Richard Nixon of entrepreneurs,Q567_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+10,Bill Gates is the Mike Pence of entrepreneurs,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+11,Bill Gates is the Colin Powell of entrepreneurs,ChatGPT
+12,Bill Gates is the Sarah Palin of entrepreneurs,Q5284_we_euclidean_word2vec_translate
+13,Bill Gates is the Rockefeller of Philanthropic Impact.,Q567_we_cosine_word2vec_projec
+14,Nelson Mandela was the Tutu of Moral Leadership.,Q567_kge_euclidean_data_transe_wikidata5mpkl_translate
+15,Nelson Mandela was the Elizabeth II of politicians,Q8023_we_cosine_word2vec_projec
+16,Nelson Mandela was the Miriam Makeba of politicians,Q8023_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+17,Nelson Mandela was the Robert Boyle of politicians,ChatGPT
+18,Nelson Mandela was the Robert Boyle of politicians,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+19,Nelson Mandela was the Carl Lewis of politicians,Q5284_we_cosine_word2vec_projec
+20,Nelson Mandela was the Leonard Cohen of politicians,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec

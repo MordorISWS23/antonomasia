@@ -1,0 +1,22 @@
+,Sentence,Model
+0,Albert Einstein was the Da Vinci of Rationality.,Q9960_kge_euclidean_data_transe_wikidata5mpkl_translate
+1,Albert Einstein was the Karl Liebknecht of physicists,Q567_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+2,Albert Einstein was the Willy Brandt of physicists,Q9960_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+3,Albert Einstein was the Leonard Bernstein of physicists,Q567_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+4,Albert Einstein was the Robert Edwards of physicists,Q567_we_cosine_word2vec_projec
+5,Albert Einstein was the Robbie Williams of physicists,ChatGPT
+6,Albert Einstein was the Boris Becker of physicists,Q567_kge_cosine_data_transe_wikidata5mpkl_projec
+7,Angela Merkel is the Joshua Bassett of politicians,Q567_we_euclidean_word2vec_translate
+8,Angela Merkel is the Philip Seymour Hoffman of politicians,Q937_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+9,Angela Merkel is the Julian Assange of politicians,Q567_kge_euclidean_data_transe_wikidata5mpkl_translate
+10,Angela Merkel is the Milton Friedman of politicians,Q937_kge_euclidean_data_transe_wikidata5mpkl_translate
+11,Angela Merkel is the Erwin Rommel of politicians,ChatGPT
+12,Angela Merkel is the Martin Niemöller of politicians,Q937_we_euclidean_word2vec_translate
+13,Angela Merkel is the Thatcher of Resolute Statesmanship.,Q9960_kge_cosine_data_transe_wikidata5mpkl_projec
+14,Ronald Reagan was the Thatcher of American Presidency.,Q9960_we_cosine_word2vec_projec
+15,Ronald Reagan was the Charles Manson of television actors,Q9960_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+16,Ronald Reagan was the Melania Trump of television actors,Q937_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+17,Ronald Reagan was the Charles Manson of television actors,ChatGPT
+18,Ronald Reagan was the Leonard Bernstein of television actors,Q937_we_cosine_word2vec_projec
+19,Ronald Reagan was the Robert Edwards of television actors,Q937_kge_cosine_data_transe_wikidata5mpkl_projec
+20,Ronald Reagan was the Milton Friedman of television actors,Q9960_we_euclidean_word2vec_translate

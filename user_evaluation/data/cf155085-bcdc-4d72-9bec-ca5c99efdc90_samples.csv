@@ -1,0 +1,22 @@
+,Sentence,Model
+0,Bill Gates is the Da Vinci of Technological Renaissance.,Q9960_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+1,Bill Gates is the Barbara Bush of entrepreneurs,Q5284_we_cosine_word2vec_projec
+2,Bill Gates is the Lyndon B. Johnson of entrepreneurs,Q7245_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+3,Bill Gates is the Margaret Thatcher of entrepreneurs,Q7245_we_cosine_word2vec_projec
+4,Bill Gates is the Barbara Bush of entrepreneurs,Q5284_we_euclidean_word2vec_translate
+5,Bill Gates is the Lois Lane of entrepreneurs,Q9960_kge_cosine_data_transe_wikidata5mpkl_projec
+6,Bill Gates is the Frederick Sanger of entrepreneurs,Q9960_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+7,Mark Twain was the Darth Vader of journalists,Q9960_we_cosine_word2vec_projec
+8,Mark Twain was the Maurice Ravel of journalists,Q7245_kge_euclidean_data_transe_wikidata5mpkl_translate
+9,Mark Twain was the Sojourner Truth of journalists,Q7245_we_euclidean_word2vec_translate
+10,Mark Twain was the Jeff Bridges of journalists,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+11,Mark Twain was the Alfred Hitchcock of journalists,Q7245_kge_cosine_data_transe_wikidata5mpkl_projec
+12,Mark Twain was the Hal Holbrook of journalists,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+13,Mark Twain was the Austen of American Fiction.,Q7245_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+14,Ronald Reagan was the Kennedy of Charismatic Governance.,ChatGPT
+15,Ronald Reagan was the Langston Hughes of television actors,Q9960_we_euclidean_word2vec_translate
+16,Ronald Reagan was the Arthur Rubinstein of television actors,ChatGPT
+17,Ronald Reagan was the Charles Manson of television actors,Q9960_kge_euclidean_data_transe_wikidata5mpkl_translate
+18,Ronald Reagan was the Milton Friedman of television actors,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+19,Ronald Reagan was the Carl David Anderson of television actors,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+20,Ronald Reagan was the Boris Becker of television actors,ChatGPT

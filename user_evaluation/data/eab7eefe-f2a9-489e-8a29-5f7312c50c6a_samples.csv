@@ -1,0 +1,22 @@
+,Sentence,Model
+0,Angela Merkel is the Queen Elizabeth I of Political Diplomacy.,Q567_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+1,Angela Merkel is the Claus Schenk Graf von Stauffenberg of politicians,ChatGPT
+2,Angela Merkel is the Marlene Dietrich of politicians,Q567_kge_euclidean_data_transe_wikidata5mpkl_translate
+3,Angela Merkel is the Jennifer Aniston of politicians,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+4,Angela Merkel is the Thomas Mann of politicians,Q567_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+5,Angela Merkel is the Spencer Tracy of politicians,Q567_we_euclidean_word2vec_translate
+6,Angela Merkel is the Marilyn Manson of politicians,Q567_kge_cosine_data_transe_wikidata5mpkl_projec
+7,Bill Gates is the Francisco Goya of entrepreneurs,ChatGPT
+8,Bill Gates is the Mike Pence of entrepreneurs,Q9960_we_euclidean_word2vec_translate
+9,Bill Gates is the Gerald Ford of entrepreneurs,Q9960_kge_euclidean_data_transe_wikidata5mpkl_translate
+10,Bill Gates is the Margaret Thatcher of entrepreneurs,ChatGPT
+11,Bill Gates is the Michail Gorbatsjov of entrepreneurs,Q9960_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+12,Bill Gates is the Gerhard Schröder of entrepreneurs,Q9960_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+13,Bill Gates is the Tesla of Technological Vision.,Q9960_kge_cosine_data_transe_wikidata5mpkl_projec
+14,Ronald Reagan was the Jefferson of Reagan Revolution.,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+15,Ronald Reagan was the Howard Hughes of television actors,Q9960_we_cosine_word2vec_projec
+16,Ronald Reagan was the Neil Armstrong of television actors,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+17,Ronald Reagan was the George Soros of television actors,Q5284_we_cosine_word2vec_projec
+18,Ronald Reagan was the George Soros of television actors,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+19,Ronald Reagan was the Alexander I of television actors,Q5284_we_euclidean_word2vec_translate
+20,Ronald Reagan was the Rupert Murdoch of television actors,Q567_we_cosine_word2vec_projec

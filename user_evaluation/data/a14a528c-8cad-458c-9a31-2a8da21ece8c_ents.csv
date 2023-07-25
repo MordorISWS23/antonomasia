@@ -1,0 +1,22 @@
+,Unnamed: 0.1,Unnamed: 0,A,B,C,Model
+0,1681,1681,Albert Einstein,Mozart,Intellectual Breakthroughs.,ChatGPT
+1,1122,1122,Albert Einstein,Albert Hofmann,physicists,Q7245_kge_euclidean_data_transe_wikidata5mpkl_translate
+2,1150,1150,Albert Einstein,Carl Jung,physicists,Q937_kge_cosine_data_transe_wikidata5mpkl_projec
+3,1227,1227,Albert Einstein,Philip Seymour Hoffman,physicists,Q937_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+4,1314,1314,Albert Einstein,Boris Becker,physicists,Q9960_we_cosine_word2vec_projec
+5,1348,1348,Albert Einstein,William Wallace,physicists,ChatGPT
+6,1392,1392,Albert Einstein,Leonard Bernstein,physicists,Q9960_kge_euclidean_data_transe_wikidata5mpkl_translate
+27,833,833,Mark Twain,Percy Liza,journalists,Q937_kge_euclidean_data_transe_wikidata5mpkl_translate
+26,780,780,Mark Twain,Mark the Evangelist,journalists,Q7245_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+25,756,756,Mark Twain,Mark the Evangelist,journalists,Q7245_we_cosine_word2vec_projec
+24,662,662,Mark Twain,Joseph Smith,journalists,Q9960_kge_cosine_data_transe_wikidata5mpkl_projec
+23,596,596,Mark Twain,John Milton,journalists,Q9960_we_euclidean_word2vec_translate
+22,567,567,Mark Twain,Errol Flynn,journalists,Q7245_we_euclidean_word2vec_translate
+21,1717,1717,Mark Twain,Wilde,Social Commentary.,Q9960_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+35,1737,1737,Ronald Reagan,Caesar,Strategic Vision.,ChatGPT
+36,1400,1400,Ronald Reagan,Howard Hughes,television actors,Q7245_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+37,1432,1432,Ronald Reagan,Jacqueline Kennedy Onassis,television actors,Q937_we_euclidean_word2vec_translate
+38,1501,1501,Ronald Reagan,Leonard Bernstein,television actors,Q937_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+39,1591,1591,Ronald Reagan,Leonard Bernstein,television actors,Q7245_kge_cosine_data_transe_wikidata5mpkl_projec
+40,1627,1627,Ronald Reagan,Alexander I,television actors,Q937_we_cosine_word2vec_projec
+41,1679,1679,Ronald Reagan,Syd Barrett,television actors,Q9960_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec

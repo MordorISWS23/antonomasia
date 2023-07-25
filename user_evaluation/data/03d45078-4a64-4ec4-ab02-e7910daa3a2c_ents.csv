@@ -1,0 +1,22 @@
+,Unnamed: 0.1,Unnamed: 0,A,B,C,Model
+14,1704,1704,Bill Gates,Da Vinci,Technological Renaissance.,Q7245_we_cosine_word2vec_projec
+15,2,2,Bill Gates,Gerald Ford,entrepreneurs,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+16,34,34,Bill Gates,Franklin Delano Roosevelt,entrepreneurs,Q8023_kge_euclidean_data_transe_wikidata5mpkl_translate
+17,103,103,Bill Gates,Gerald Ford,entrepreneurs,Q5284_we_cosine_word2vec_projec
+18,195,195,Bill Gates,Sarah Palin,entrepreneurs,Q8023_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+19,223,223,Bill Gates,Hugh Grant,entrepreneurs,Q8023_we_euclidean_word2vec_translate
+20,274,274,Bill Gates,Francisco Goya,entrepreneurs,Q7245_kge_cosine_data_transe_wikidata5mpkl_projec
+27,831,831,Mark Twain,Maurice Ravel,journalists,ChatGPT
+26,785,785,Mark Twain,David Cameron,journalists,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+25,754,754,Mark Twain,Spencer Tracy,journalists,Q7245_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+24,660,660,Mark Twain,Tom Sawyer,journalists,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+23,592,592,Mark Twain,Neil Armstrong,journalists,ChatGPT
+22,561,561,Mark Twain,Alfred Hitchcock,journalists,Q5284_we_euclidean_word2vec_translate
+21,1711,1711,Mark Twain,Hemingway,Satirical Prose.,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+28,1722,1722,Nelson Mandela,King Jr.,Reconciliation.,Q8023_we_cosine_word2vec_projec
+29,843,843,Nelson Mandela,Miriam Makeba,politicians,Q7245_kge_euclidean_data_transe_wikidata5mpkl_translate
+30,870,870,Nelson Mandela,Nadine Gordimer,politicians,Q7245_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+31,949,949,Nelson Mandela,Paul Newman,politicians,ChatGPT
+32,1031,1031,Nelson Mandela,Cameron Diaz,politicians,Q8023_kge_cosine_data_transe_wikidata5mpkl_projec
+33,1067,1067,Nelson Mandela,Jerry Lewis,politicians,Q8023_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+34,1118,1118,Nelson Mandela,Pamela Anderson,politicians,Q7245_we_euclidean_word2vec_translate

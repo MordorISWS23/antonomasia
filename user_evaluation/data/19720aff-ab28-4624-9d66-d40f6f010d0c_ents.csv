@@ -1,0 +1,22 @@
+,Unnamed: 0.1,Unnamed: 0,A,B,C,Model
+14,1709,1709,Bill Gates,Steve Jobs,Humanitarian Leadership.,ChatGPT
+15,0,0,Bill Gates,Barbara Bush,entrepreneurs,Q8023_we_euclidean_word2vec_translate
+16,31,31,Bill Gates,Harry S. Truman,entrepreneurs,ChatGPT
+17,101,101,Bill Gates,Barbara Bush,entrepreneurs,Q8023_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+18,194,194,Bill Gates,Richard Nixon,entrepreneurs,Q7245_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+19,225,225,Bill Gates,Mike Pence,entrepreneurs,Q7245_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+20,275,275,Bill Gates,Abel Tasman,entrepreneurs,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+27,833,833,Mark Twain,Percy Liza,journalists,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+26,789,789,Mark Twain,Emma Stone,journalists,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+25,755,755,Mark Twain,Sojourner Truth,journalists,Q7245_we_cosine_word2vec_projec
+24,664,664,Mark Twain,Spencer Tracy,journalists,Q8023_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+23,597,597,Mark Twain,Sigmund Freud,journalists,Q5284_we_cosine_word2vec_projec
+22,567,567,Mark Twain,Errol Flynn,journalists,Q7245_we_euclidean_word2vec_translate
+21,1711,1711,Mark Twain,Hemingway,Satirical Prose.,Q7245_kge_cosine_data_transe_wikidata5mpkl_projec
+28,1722,1722,Nelson Mandela,King Jr.,Reconciliation.,Q8023_kge_cosine_data_transe_wikidata5mpkl_projec
+29,845,845,Nelson Mandela,François Hollande,politicians,Q8023_we_cosine_word2vec_projec
+30,875,875,Nelson Mandela,Charles de Gaulle,politicians,ChatGPT
+31,941,941,Nelson Mandela,Cameron Diaz,politicians,Q7245_kge_euclidean_data_transe_wikidata5mpkl_translate
+32,1034,1034,Nelson Mandela,John Paul I,politicians,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+33,1060,1060,Nelson Mandela,Cameron Diaz,politicians,Q8023_kge_euclidean_data_transe_wikidata5mpkl_translate
+34,1117,1117,Nelson Mandela,Cameron Diaz,politicians,Q5284_we_euclidean_word2vec_translate

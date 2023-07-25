@@ -1,0 +1,22 @@
+,Unnamed: 0.1,Unnamed: 0,A,B,C,Model
+0,1687,1687,Albert Einstein,Marie Curie,Quantum Enlightenment.,Q937_we_euclidean_word2vec_translate
+1,1122,1122,Albert Einstein,Albert Hofmann,physicists,Q8023_kge_euclidean_data_transe_wikidata5mpkl_translate
+2,1156,1156,Albert Einstein,Karl Liebknecht,physicists,Q8023_we_cosine_word2vec_projec
+3,1222,1222,Albert Einstein,Carl Rogers,physicists,ChatGPT
+4,1314,1314,Albert Einstein,Boris Becker,physicists,Q8023_we_euclidean_word2vec_translate
+5,1343,1343,Albert Einstein,Julia Roberts,physicists,Q937_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+6,1399,1399,Albert Einstein,Joan Crawford,physicists,Q5284_we_cosine_word2vec_projec
+20,272,272,Bill Gates,Cyrus the Great,entrepreneurs,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+19,221,221,Bill Gates,Jude Law,entrepreneurs,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+18,191,191,Bill Gates,Barbara Bush,entrepreneurs,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+17,104,104,Bill Gates,Richard Nixon,entrepreneurs,ChatGPT
+16,35,35,Bill Gates,Zbigniew Brzezinski,entrepreneurs,Q8023_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+15,9,9,Bill Gates,Donald Rumsfeld,entrepreneurs,ChatGPT
+14,1707,1707,Bill Gates,Galileo,Technological Advancement.,Q937_kge_euclidean_data_transe_wikidata5mpkl_translate
+28,1722,1722,Nelson Mandela,King Jr.,Reconciliation.,Q5284_we_euclidean_word2vec_translate
+29,843,843,Nelson Mandela,Miriam Makeba,politicians,Q937_kge_cosine_data_transe_wikidata5mpkl_projec
+30,875,875,Nelson Mandela,Charles de Gaulle,politicians,Q937_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+31,947,947,Nelson Mandela,Christopher Plummer,politicians,Q8023_kge_cosine_data_transe_wikidata5mpkl_projec
+32,1031,1031,Nelson Mandela,Cameron Diaz,politicians,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+33,1068,1068,Nelson Mandela,Carl David Anderson,politicians,Q937_we_cosine_word2vec_projec
+34,1112,1112,Nelson Mandela,Walt Whitman,politicians,Q8023_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec

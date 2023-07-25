@@ -1,0 +1,22 @@
+,Unnamed: 0.1,Unnamed: 0,A,B,C,Model
+0,1688,1688,Albert Einstein,Darwin,Theoretical Paradigm Shift.,ChatGPT
+1,1123,1123,Albert Einstein,Karl Liebknecht,physicists,ChatGPT
+2,1152,1152,Albert Einstein,Alfred Nobel,physicists,Q567_we_cosine_word2vec_projec
+3,1227,1227,Albert Einstein,Philip Seymour Hoffman,physicists,Q937_we_euclidean_word2vec_translate
+4,1311,1311,Albert Einstein,Robert Edwards,physicists,Q9960_we_cosine_word2vec_projec
+5,1346,1346,Albert Einstein,Andrew Jackson,physicists,ChatGPT
+6,1392,1392,Albert Einstein,Leonard Bernstein,physicists,Q9960_kge_cosine_data_transe_wikidata5mpkl_projec
+13,551,551,Angela Merkel,Marilyn Monroe,politicians,Q937_kge_cosine_data_transe_wikidata5mpkl_projec
+12,505,505,Angela Merkel,Julian Assange,politicians,Q9960_kge_euclidean_data_transe_wikidata5mpkl_translate
+11,473,473,Angela Merkel,Jennifer Aniston,politicians,Q567_we_euclidean_word2vec_translate
+10,387,387,Angela Merkel,Jessica Lange,politicians,Q9960_we_euclidean_word2vec_translate
+9,311,311,Angela Merkel,Erwin Rommel,politicians,Q9960_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+8,286,286,Angela Merkel,Herta Müller,politicians,Q9960_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+7,1696,1696,Angela Merkel,Havel,Democratic Leadership.,Q567_kge_cosine_data_transe_wikidata5mpkl_projec
+35,1731,1731,Ronald Reagan,Roosevelt,Conservative Leadership.,Q937_kge_euclidean_data_transe_wikidata5mpkl_translate
+36,1409,1409,Ronald Reagan,"Diana, Princess of Wales",television actors,Q567_kge_euclidean_data_transe_wikidata5mpkl_translate
+37,1431,1431,Ronald Reagan,Noam Chomsky,television actors,Q937_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+38,1506,1506,Ronald Reagan,Julian Assange,television actors,Q937_we_cosine_word2vec_projec
+39,1592,1592,Ronald Reagan,Charles Manson,television actors,Q567_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+40,1625,1625,Ronald Reagan,Joseph John Thomson,television actors,Q937_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+41,1679,1679,Ronald Reagan,Syd Barrett,television actors,Q567_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec

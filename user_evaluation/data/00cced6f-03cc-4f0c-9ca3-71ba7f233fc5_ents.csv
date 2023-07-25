@@ -1,0 +1,22 @@
+,Unnamed: 0.1,Unnamed: 0,A,B,C,Model
+0,1680,1680,Albert Einstein,Shakespeare,Scientific Insight.,Q937_kge_cosine_data_transe_wikidata5mpkl_projec
+1,1124,1124,Albert Einstein,Eva Braun,physicists,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+2,1153,1153,Albert Einstein,Edward Snowden,physicists,Q9960_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+3,1227,1227,Albert Einstein,Philip Seymour Hoffman,physicists,Q9960_kge_euclidean_data_transe_wikidata5mpkl_translate
+4,1310,1310,Albert Einstein,William Harvey,physicists,Q9960_we_euclidean_word2vec_translate
+5,1349,1349,Albert Einstein,Edward Norton,physicists,ChatGPT
+6,1392,1392,Albert Einstein,Leonard Bernstein,physicists,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+20,275,275,Bill Gates,Abel Tasman,entrepreneurs,Q9960_kge_cosine_data_transe_wikidata5mpkl_projec
+19,222,222,Bill Gates,Jimmy Page,entrepreneurs,Q937_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+18,197,197,Bill Gates,Margaret Thatcher,entrepreneurs,Q937_we_cosine_word2vec_projec
+17,105,105,Bill Gates,Sarah Palin,entrepreneurs,ChatGPT
+16,34,34,Bill Gates,Franklin Delano Roosevelt,entrepreneurs,Q5284_we_euclidean_word2vec_translate
+15,8,8,Bill Gates,Richard Nixon,entrepreneurs,Q9960_we_cosine_word2vec_projec
+14,1707,1707,Bill Gates,Galileo,Technological Advancement.,Q937_kge_euclidean_data_transe_wikidata5mpkl_translate
+35,1730,1730,Ronald Reagan,Churchill,American Politics.,Q937_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+36,1401,1401,Ronald Reagan,Neil Armstrong,television actors,Q937_we_euclidean_word2vec_translate
+37,1438,1438,Ronald Reagan,Steve Jobs,television actors,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+38,1500,1500,Ronald Reagan,Neil Armstrong,television actors,ChatGPT
+39,1594,1594,Ronald Reagan,George Soros,television actors,Q5284_we_cosine_word2vec_projec
+40,1628,1628,Ronald Reagan,Robert Wilson,television actors,Q9960_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+41,1674,1674,Ronald Reagan,Milton Friedman,television actors,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate

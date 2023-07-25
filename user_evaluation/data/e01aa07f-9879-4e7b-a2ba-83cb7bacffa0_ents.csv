@@ -1,0 +1,22 @@
+,Unnamed: 0.1,Unnamed: 0,A,B,C,Model
+0,1689,1689,Albert Einstein,Tesla,Conceptual Innovation.,Q5284_we_euclidean_word2vec_translate
+1,1126,1126,Albert Einstein,Gerhard Schröder,physicists,Q8023_we_euclidean_word2vec_translate
+2,1153,1153,Albert Einstein,Edward Snowden,physicists,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+3,1223,1223,Albert Einstein,Richard Strauss,physicists,Q8023_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+4,1310,1310,Albert Einstein,William Harvey,physicists,Q8023_we_cosine_word2vec_projec
+5,1348,1348,Albert Einstein,William Wallace,physicists,Q937_we_cosine_word2vec_projec
+6,1394,1394,Albert Einstein,Dustin Hoffman,physicists,ChatGPT
+20,278,278,Bill Gates,Maurice Ravel,entrepreneurs,Q937_we_euclidean_word2vec_translate
+19,222,222,Bill Gates,Jimmy Page,entrepreneurs,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+18,193,193,Bill Gates,Mike Pence,entrepreneurs,Q937_kge_cosine_data_transe_wikidata5mpkl_projec
+17,108,108,Bill Gates,Neil Armstrong,entrepreneurs,Q8023_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+16,32,32,Bill Gates,Elizabeth II,entrepreneurs,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+15,3,3,Bill Gates,Harry S. Truman,entrepreneurs,Q8023_kge_euclidean_data_transe_wikidata5mpkl_translate
+14,1706,1706,Bill Gates,Mozart,Entrepreneurial Brilliance.,Q5284_we_cosine_word2vec_projec
+28,1726,1726,Nelson Mandela,Sankara,Pan-Africanism.,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+29,842,842,Nelson Mandela,Dilma Rousseff,politicians,Q937_kge_euclidean_data_transe_wikidata5mpkl_translate
+30,871,871,Nelson Mandela,Elizabeth II,politicians,ChatGPT
+31,948,948,Nelson Mandela,Robert Boyle,politicians,ChatGPT
+32,1039,1039,Nelson Mandela,Paul Newman,politicians,Q937_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+33,1068,1068,Nelson Mandela,Carl David Anderson,politicians,Q8023_kge_cosine_data_transe_wikidata5mpkl_projec
+34,1116,1116,Nelson Mandela,Victor Francis Hess,politicians,Q937_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec

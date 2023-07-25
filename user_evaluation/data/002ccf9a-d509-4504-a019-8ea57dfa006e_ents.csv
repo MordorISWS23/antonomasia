@@ -1,0 +1,22 @@
+,Unnamed: 0.1,Unnamed: 0,A,B,C,Model
+14,1706,1706,Bill Gates,Mozart,Entrepreneurial Brilliance.,Q7245_kge_euclidean_data_transe_wikidata5mpkl_translate
+15,5,5,Bill Gates,Sarah Palin,entrepreneurs,Q7245_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+16,31,31,Bill Gates,Harry S. Truman,entrepreneurs,Q7245_kge_cosine_data_transe_wikidata5mpkl_projec
+17,100,100,Bill Gates,Jude Law,entrepreneurs,Q9960_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+18,195,195,Bill Gates,Sarah Palin,entrepreneurs,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+19,223,223,Bill Gates,Hugh Grant,entrepreneurs,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+20,274,274,Bill Gates,Francisco Goya,entrepreneurs,Q7245_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+27,837,837,Mark Twain,Darth Vader,journalists,ChatGPT
+26,782,782,Mark Twain,Victor Francis Hess,journalists,Q9960_kge_cosine_data_transe_wikidata5mpkl_projec
+25,751,751,Mark Twain,Jeff Bridges,journalists,Q9960_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+24,665,665,Mark Twain,Sojourner Truth,journalists,Q7245_we_euclidean_word2vec_translate
+23,596,596,Mark Twain,John Milton,journalists,Q9960_we_euclidean_word2vec_translate
+22,565,565,Mark Twain,Lucille Ball,journalists,ChatGPT
+21,1710,1710,Mark Twain,Dickens,American Literature.,Q9960_we_cosine_word2vec_projec
+35,1733,1733,Ronald Reagan,Kennedy,Charismatic Governance.,Q9960_kge_euclidean_data_transe_wikidata5mpkl_translate
+36,1407,1407,Ronald Reagan,Charles Manson,television actors,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+37,1434,1434,Ronald Reagan,Elizabeth II,television actors,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+38,1506,1506,Ronald Reagan,Julian Assange,television actors,Q5284_we_cosine_word2vec_projec
+39,1594,1594,Ronald Reagan,George Soros,television actors,ChatGPT
+40,1620,1620,Ronald Reagan,Charles Thomson Rees Wilson,television actors,Q5284_we_euclidean_word2vec_translate
+41,1674,1674,Ronald Reagan,Milton Friedman,television actors,Q7245_we_cosine_word2vec_projec

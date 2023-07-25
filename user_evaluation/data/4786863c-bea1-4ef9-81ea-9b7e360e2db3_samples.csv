@@ -1,0 +1,22 @@
+,Sentence,Model
+0,Angela Merkel is the Gandhi of Progressive Governance.,Q9960_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+1,Angela Merkel is the Claus Schenk Graf von Stauffenberg of politicians,Q567_kge_cosine_data_transe_wikidata5mpkl_projec
+2,Angela Merkel is the Friedrich Engels of politicians,Q9960_kge_euclidean_data_transe_wikidata5mpkl_translate
+3,Angela Merkel is the Jessica Lange of politicians,Q9960_we_euclidean_word2vec_translate
+4,Angela Merkel is the Paul Klee of politicians,Q567_we_euclidean_word2vec_translate
+5,Angela Merkel is the Emma Thompson of politicians,Q7245_we_euclidean_word2vec_translate
+6,Angela Merkel is the Jennifer Aniston of politicians,Q7245_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+7,Mark Twain was the Cyrus the Great of journalists,Q7245_kge_euclidean_data_transe_wikidata5mpkl_translate
+8,Mark Twain was the Roger Waters of journalists,Q9960_kge_cosine_data_transe_wikidata5mpkl_projec
+9,Mark Twain was the John Wayne of journalists,Q9960_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+10,Mark Twain was the Robin Williams of journalists,Q7245_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+11,Mark Twain was the Joseph Smith of journalists,ChatGPT
+12,Mark Twain was the Orson Welles of journalists,ChatGPT
+13,Mark Twain was the Chaucer of American Vernacular.,Q7245_kge_cosine_data_transe_wikidata5mpkl_projec
+14,Ronald Reagan was the Churchill of American Politics.,Q567_we_cosine_word2vec_projec
+15,Ronald Reagan was the Noam Chomsky of television actors,ChatGPT
+16,Ronald Reagan was the John D. Rockefeller of television actors,Q567_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+17,Ronald Reagan was the Carl Lewis of television actors,Q567_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+18,Ronald Reagan was the Carl David Anderson of television actors,Q567_kge_euclidean_data_transe_wikidata5mpkl_translate
+19,Ronald Reagan was the George Soros of television actors,Q7245_we_cosine_word2vec_projec
+20,Ronald Reagan was the Gregory I of television actors,Q9960_we_cosine_word2vec_projec

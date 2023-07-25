@@ -1,0 +1,22 @@
+,Sentence,Model
+0,Bill Gates is the Edison of Technological Ingenuity.,ChatGPT
+1,Bill Gates is the Donald Rumsfeld of entrepreneurs,Q7245_we_cosine_word2vec_projec
+2,Bill Gates is the Sarah Palin of entrepreneurs,Q7245_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+3,Bill Gates is the Edward Kennedy of entrepreneurs,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+4,Bill Gates is the Mike Pence of entrepreneurs,Q7245_kge_euclidean_data_transe_wikidata5mpkl_translate
+5,Bill Gates is the Charlie Parker of entrepreneurs,ChatGPT
+6,Bill Gates is the Otto I the Great of entrepreneurs,Q8023_we_cosine_word2vec_projec
+7,Mark Twain was the Cyrus the Great of journalists,ChatGPT
+8,Mark Twain was the Mark the Evangelist of journalists,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+9,Mark Twain was the Joseph Smith of journalists,Q8023_we_euclidean_word2vec_translate
+10,Mark Twain was the Robin Williams of journalists,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+11,Mark Twain was the Neil Armstrong of journalists,Q8023_kge_cosine_data_transe_wikidata5mpkl_projec
+12,Mark Twain was the Jack Lemmon of journalists,Q5284_we_euclidean_word2vec_translate
+13,Mark Twain was the Chaucer of American Vernacular.,Q8023_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+14,Nelson Mandela was the Luther King of Human Rights.,Q7245_we_euclidean_word2vec_translate
+15,Nelson Mandela was the Muhammad Yunus of politicians,Q5284_we_cosine_word2vec_projec
+16,Nelson Mandela was the Shakira of politicians,Q7245_kge_cosine_data_transe_wikidata5mpkl_projec
+17,Nelson Mandela was the Paul Newman of politicians,Q7245_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+18,Nelson Mandela was the Robert Boyle of politicians,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+19,Nelson Mandela was the David Silva of politicians,Q8023_kge_euclidean_data_transe_wikidata5mpkl_translate
+20,Nelson Mandela was the Donald Sutherland of politicians,Q8023_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate

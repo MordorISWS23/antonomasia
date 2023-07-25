@@ -1,0 +1,22 @@
+,Sentence,Model
+0,Angela Merkel is the Lincoln of Staunch Resolve.,ChatGPT
+1,Angela Merkel is the Heinz Guderian of politicians,ChatGPT
+2,Angela Merkel is the Melinda Gates of politicians,Q7245_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+3,Angela Merkel is the Thomas Mann of politicians,Q567_kge_cosine_data_transe_wikidata5mpkl_projec
+4,Angela Merkel is the Milton Friedman of politicians,Q7245_kge_euclidean_data_transe_wikidata5mpkl_translate
+5,Angela Merkel is the Emma Thompson of politicians,Q7245_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+6,Angela Merkel is the Susan Boyle of politicians,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+7,Bill Gates is the Francisco Goya of entrepreneurs,Q567_we_euclidean_word2vec_translate
+8,Bill Gates is the Charlie Parker of entrepreneurs,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+9,Bill Gates is the Margaret Thatcher of entrepreneurs,Q567_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+10,Bill Gates is the Sarah Palin of entrepreneurs,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+11,Bill Gates is the Harry S. Truman of entrepreneurs,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+12,Bill Gates is the Gerhard Schröder of entrepreneurs,Q5284_we_euclidean_word2vec_translate
+13,Bill Gates is the Einstein of Societal Transformation.,Q7245_we_cosine_word2vec_projec
+14,Mark Twain was the Poe of Hilarious Anecdotes.,Q7245_we_euclidean_word2vec_translate
+15,Mark Twain was the Anne Bancroft of journalists,ChatGPT
+16,Mark Twain was the Sigmund Freud of journalists,Q5284_we_cosine_word2vec_projec
+17,Mark Twain was the John Milton of journalists,Q567_kge_euclidean_data_transe_wikidata5mpkl_translate
+18,Mark Twain was the Kirk Douglas of journalists,Q7245_kge_cosine_data_transe_wikidata5mpkl_projec
+19,Mark Twain was the David Cameron of journalists,Q567_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+20,Mark Twain was the Rupert Murdoch of journalists,Q567_we_cosine_word2vec_projec

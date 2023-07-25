@@ -1,0 +1,22 @@
+,Unnamed: 0.1,Unnamed: 0,A,B,C,Model
+21,1715,1715,Mark Twain,Poe,Hilarious Anecdotes.,Q7245_kge_euclidean_data_transe_wikidata5mpkl_translate
+22,561,561,Mark Twain,Alfred Hitchcock,journalists,Q7245_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+23,593,593,Mark Twain,Orson Welles,journalists,ChatGPT
+24,661,661,Mark Twain,Jeff Bridges,journalists,ChatGPT
+25,759,759,Mark Twain,Robin Williams,journalists,Q7245_we_cosine_word2vec_projec
+26,784,784,Mark Twain,Roger Waters,journalists,Q9960_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+27,834,834,Mark Twain,Otto I the Great,journalists,Q9960_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+34,1114,1114,Nelson Mandela,Sherlock Holmes,politicians,Q9960_we_euclidean_word2vec_translate
+33,1061,1061,Nelson Mandela,Carl Lewis,politicians,Q9960_kge_cosine_data_transe_wikidata5mpkl_projec
+32,1035,1035,Nelson Mandela,Shaka Zulu,politicians,Q8023_kge_euclidean_data_transe_wikidata5mpkl_translate
+31,941,941,Nelson Mandela,Cameron Diaz,politicians,Q9960_we_cosine_word2vec_projec
+30,873,873,Nelson Mandela,Edward Snowden,politicians,Q8023_we_cosine_word2vec_projec
+29,848,848,Nelson Mandela,Peter Gabriel,politicians,Q7245_kge_cosine_data_transe_wikidata5mpkl_projec
+28,1722,1722,Nelson Mandela,King Jr.,Reconciliation.,Q9960_kge_euclidean_data_transe_wikidata5mpkl_translate
+35,1738,1738,Ronald Reagan,Jefferson,Reagan Revolution.,Q7245_we_euclidean_word2vec_translate
+36,1405,1405,Ronald Reagan,Noam Chomsky,television actors,Q8023_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+37,1433,1433,Ronald Reagan,John D. Rockefeller,television actors,Q8023_we_euclidean_word2vec_translate
+38,1500,1500,Ronald Reagan,Neil Armstrong,television actors,Q7245_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+39,1594,1594,Ronald Reagan,George Soros,television actors,Q8023_kge_cosine_data_transe_wikidata5mpkl_projec
+40,1629,1629,Ronald Reagan,Jesse Owens,television actors,Q8023_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+41,1675,1675,Ronald Reagan,Charles Thomson Rees Wilson,television actors,ChatGPT

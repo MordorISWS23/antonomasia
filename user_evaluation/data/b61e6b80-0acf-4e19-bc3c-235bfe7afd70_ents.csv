@@ -1,0 +1,22 @@
+,Unnamed: 0.1,Unnamed: 0,A,B,C,Model
+0,1682,1682,Albert Einstein,Da Vinci,Rationality.,Q9960_we_euclidean_word2vec_translate
+1,1122,1122,Albert Einstein,Albert Hofmann,physicists,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+2,1150,1150,Albert Einstein,Carl Jung,physicists,Q937_kge_euclidean_data_transe_wikidata5mpkl_translate
+3,1226,1226,Albert Einstein,Carl Jung,physicists,Q937_we_euclidean_word2vec_translate
+4,1310,1310,Albert Einstein,William Harvey,physicists,Q9960_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+5,1345,1345,Albert Einstein,Eddie Murphy,physicists,Q9960_we_cosine_word2vec_projec
+6,1394,1394,Albert Einstein,Dustin Hoffman,physicists,Q9960_kge_cosine_data_transe_wikidata5mpkl_projec
+20,270,270,Bill Gates,Percy Liza,entrepreneurs,ChatGPT
+19,223,223,Bill Gates,Hugh Grant,entrepreneurs,ChatGPT
+18,192,192,Bill Gates,Gerald Ford,entrepreneurs,ChatGPT
+17,108,108,Bill Gates,Neil Armstrong,entrepreneurs,Q5284_we_cosine_word2vec_projec
+16,36,36,Bill Gates,Gerald Ford,entrepreneurs,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+15,6,6,Bill Gates,Edward Kennedy,entrepreneurs,Q937_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+14,1702,1702,Bill Gates,Tesla,Technological Vision.,Q937_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+35,1732,1732,Ronald Reagan,Lincoln,Economic Reform.,Q5284_we_euclidean_word2vec_translate
+36,1409,1409,Ronald Reagan,"Diana, Princess of Wales",television actors,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+37,1438,1438,Ronald Reagan,Steve Jobs,television actors,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+38,1502,1502,Ronald Reagan,Charles Manson,television actors,Q9960_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+39,1591,1591,Ronald Reagan,Leonard Bernstein,television actors,Q937_kge_cosine_data_transe_wikidata5mpkl_projec
+40,1625,1625,Ronald Reagan,Joseph John Thomson,television actors,Q9960_kge_euclidean_data_transe_wikidata5mpkl_translate
+41,1673,1673,Ronald Reagan,Boris Becker,television actors,Q937_we_cosine_word2vec_projec

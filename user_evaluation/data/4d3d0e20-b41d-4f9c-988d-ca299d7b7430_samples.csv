@@ -1,0 +1,22 @@
+,Sentence,Model
+0,Angela Merkel is the Catherine the Great of Leadership Acumen.,ChatGPT
+1,Angela Merkel is the Günter Grass of politicians,ChatGPT
+2,Angela Merkel is the Muhammad Yunus of politicians,Q567_we_cosine_word2vec_projec
+3,Angela Merkel is the Thomas Mann of politicians,ChatGPT
+4,Angela Merkel is the Paul Klee of politicians,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+5,Angela Merkel is the Jennifer Aniston of politicians,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+6,Angela Merkel is the Arthur Conan Doyle of politicians,Q9960_we_cosine_word2vec_projec
+7,Bill Gates is the Cyrus the Great of entrepreneurs,Q9960_we_euclidean_word2vec_translate
+8,Bill Gates is the Martin Landau of entrepreneurs,Q9960_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+9,Bill Gates is the Richard Nixon of entrepreneurs,Q567_we_euclidean_word2vec_translate
+10,Bill Gates is the Jude Law of entrepreneurs,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+11,Bill Gates is the Elizabeth II of entrepreneurs,Q9960_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+12,Bill Gates is the Gerald Ford of entrepreneurs,Q567_kge_euclidean_data_transe_wikidata5mpkl_translate
+13,Bill Gates is the Edison of Technological Ingenuity.,Q5284_we_cosine_word2vec_projec
+14,Ronald Reagan was the Jefferson of Reagan Revolution.,Q567_kge_cosine_data_transe_wikidata5mpkl_projec
+15,Ronald Reagan was the Leonard Bernstein of television actors,Q5284_we_euclidean_word2vec_translate
+16,"Ronald Reagan was the Diana, Princess of Wales of television actors",Q9960_kge_cosine_data_transe_wikidata5mpkl_projec
+17,Ronald Reagan was the Charles Manson of television actors,Q567_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+18,Ronald Reagan was the Jesse Owens of television actors,Q9960_kge_euclidean_data_transe_wikidata5mpkl_translate
+19,Ronald Reagan was the Robert Edwards of television actors,Q567_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+20,Ronald Reagan was the Rupert Murdoch of television actors,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec

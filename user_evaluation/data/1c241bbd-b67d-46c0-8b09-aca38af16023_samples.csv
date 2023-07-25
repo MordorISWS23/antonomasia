@@ -1,0 +1,22 @@
+,Sentence,Model
+0,Albert Einstein was the Tesla of Conceptual Innovation.,Q8023_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+1,Albert Einstein was the Carl Wilhelm Scheele of physicists,Q8023_kge_cosine_data_transe_wikidata5mpkl_projec
+2,Albert Einstein was the Edward Snowden of physicists,Q8023_kge_euclidean_data_transe_wikidata5mpkl_translate
+3,Albert Einstein was the Richard Strauss of physicists,Q937_kge_euclidean_data_transe_wikidata5mpkl_translate
+4,Albert Einstein was the Boris Becker of physicists,Q567_we_euclidean_word2vec_translate
+5,Albert Einstein was the Edward Norton of physicists,Q937_kge_cosine_data_transe_wikidata5mpkl_projec
+6,Albert Einstein was the Syd Barrett of physicists,Q937_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+7,Angela Merkel is the Julian Assange of politicians,Q567_kge_cosine_data_transe_wikidata5mpkl_projec
+8,Angela Merkel is the Spencer Tracy of politicians,Q8023_we_euclidean_word2vec_translate
+9,Angela Merkel is the Helen Keller of politicians,Q937_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+10,Angela Merkel is the Jennifer Aniston of politicians,Q937_we_euclidean_word2vec_translate
+11,Angela Merkel is the Friedrich Engels of politicians,Q8023_we_cosine_word2vec_projec
+12,Angela Merkel is the Hans-Georg Gadamer of politicians,ChatGPT
+13,Angela Merkel is the Mandela of Political Pragmatism.,ChatGPT
+14,Nelson Mandela was the King Jr. of Reconciliation.,Q937_we_cosine_word2vec_projec
+15,Nelson Mandela was the Peter Gabriel of politicians,Q567_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+16,Nelson Mandela was the Nadine Gordimer of politicians,ChatGPT
+17,Nelson Mandela was the Robert Boyle of politicians,Q567_kge_euclidean_data_transe_wikidata5mpkl_translate
+18,Nelson Mandela was the Donald Sutherland of politicians,Q8023_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+19,Nelson Mandela was the Jerry Lewis of politicians,Q567_we_cosine_word2vec_projec
+20,Nelson Mandela was the Walt Whitman of politicians,Q567_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate

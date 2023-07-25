@@ -1,0 +1,22 @@
+,Unnamed: 0.1,Unnamed: 0,A,B,C,Model
+14,1704,1704,Bill Gates,Da Vinci,Technological Renaissance.,Q9960_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+15,0,0,Bill Gates,Barbara Bush,entrepreneurs,Q5284_we_cosine_word2vec_projec
+16,37,37,Bill Gates,Lyndon B. Johnson,entrepreneurs,Q7245_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+17,107,107,Bill Gates,Margaret Thatcher,entrepreneurs,Q7245_we_cosine_word2vec_projec
+18,191,191,Bill Gates,Barbara Bush,entrepreneurs,Q5284_we_euclidean_word2vec_translate
+19,220,220,Bill Gates,Lois Lane,entrepreneurs,Q9960_kge_cosine_data_transe_wikidata5mpkl_projec
+20,279,279,Bill Gates,Frederick Sanger,entrepreneurs,Q9960_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+27,837,837,Mark Twain,Darth Vader,journalists,Q9960_we_cosine_word2vec_projec
+26,786,786,Mark Twain,Maurice Ravel,journalists,Q7245_kge_euclidean_data_transe_wikidata5mpkl_translate
+25,755,755,Mark Twain,Sojourner Truth,journalists,Q7245_we_euclidean_word2vec_translate
+24,661,661,Mark Twain,Jeff Bridges,journalists,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+23,591,591,Mark Twain,Alfred Hitchcock,journalists,Q7245_kge_cosine_data_transe_wikidata5mpkl_projec
+22,560,560,Mark Twain,Hal Holbrook,journalists,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+21,1718,1718,Mark Twain,Austen,American Fiction.,Q7245_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+35,1733,1733,Ronald Reagan,Kennedy,Charismatic Governance.,ChatGPT
+36,1406,1406,Ronald Reagan,Langston Hughes,television actors,Q9960_we_euclidean_word2vec_translate
+37,1436,1436,Ronald Reagan,Arthur Rubinstein,television actors,ChatGPT
+38,1502,1502,Ronald Reagan,Charles Manson,television actors,Q9960_kge_euclidean_data_transe_wikidata5mpkl_translate
+39,1595,1595,Ronald Reagan,Milton Friedman,television actors,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+40,1622,1622,Ronald Reagan,Carl David Anderson,television actors,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+41,1673,1673,Ronald Reagan,Boris Becker,television actors,ChatGPT

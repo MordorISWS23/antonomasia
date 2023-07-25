@@ -1,0 +1,22 @@
+,Unnamed: 0.1,Unnamed: 0,A,B,C,Model
+0,1684,1684,Albert Einstein,Picasso,Conceptual Visualization.,Q8023_kge_cosine_data_transe_wikidata5mpkl_projec
+1,1129,1129,Albert Einstein,Gerty Cori,physicists,Q8023_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+2,1155,1155,Albert Einstein,Carl Wilhelm Scheele,physicists,Q7245_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+3,1222,1222,Albert Einstein,Carl Rogers,physicists,ChatGPT
+4,1313,1313,Albert Einstein,Richard Strauss,physicists,ChatGPT
+5,1346,1346,Albert Einstein,Andrew Jackson,physicists,Q7245_we_cosine_word2vec_projec
+6,1391,1391,Albert Einstein,Marilyn Manson,physicists,Q7245_kge_cosine_data_transe_wikidata5mpkl_projec
+27,833,833,Mark Twain,Percy Liza,journalists,Q7245_we_euclidean_word2vec_translate
+26,789,789,Mark Twain,Emma Stone,journalists,Q7245_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+25,751,751,Mark Twain,Jeff Bridges,journalists,Q8023_kge_euclidean_data_transe_wikidata5mpkl_translate
+24,668,668,Mark Twain,Kirk Douglas,journalists,Q7245_kge_euclidean_data_transe_wikidata5mpkl_translate
+23,596,596,Mark Twain,John Milton,journalists,Q937_kge_cosine_data_transe_wikidata5mpkl_projec
+22,567,567,Mark Twain,Errol Flynn,journalists,Q8023_we_euclidean_word2vec_translate
+21,1711,1711,Mark Twain,Hemingway,Satirical Prose.,Q937_kge_euclidean_data_transe_wikidata5mpkl_translate
+28,1721,1721,Nelson Mandela,Gandhi,Peaceful Resistance.,Q8023_we_cosine_word2vec_projec
+29,848,848,Nelson Mandela,Peter Gabriel,politicians,Q937_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+30,875,875,Nelson Mandela,Charles de Gaulle,politicians,Q937_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+31,945,945,Nelson Mandela,John Paul I,politicians,Q937_we_euclidean_word2vec_translate
+32,1030,1030,Nelson Mandela,Edward Norton,politicians,Q937_we_cosine_word2vec_projec
+33,1061,1061,Nelson Mandela,Carl Lewis,politicians,ChatGPT
+34,1119,1119,Nelson Mandela,Donald Sutherland,politicians,Q8023_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec

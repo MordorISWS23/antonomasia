@@ -1,0 +1,22 @@
+,Sentence,Model
+0,Albert Einstein was the Beethoven of Mathematical Symphony.,Q567_we_euclidean_word2vec_translate
+1,Albert Einstein was the Willy Brandt of physicists,Q8023_we_euclidean_word2vec_translate
+2,Albert Einstein was the Karl Liebknecht of physicists,Q567_kge_cosine_data_transe_wikidata5mpkl_projec
+3,Albert Einstein was the Richard Strauss of physicists,Q8023_kge_cosine_data_transe_wikidata5mpkl_projec
+4,Albert Einstein was the Harold Wilson of physicists,Q937_kge_euclidean_data_transe_wikidata5mpkl_translate
+5,Albert Einstein was the Julia Roberts of physicists,Q937_we_euclidean_word2vec_translate
+6,Albert Einstein was the Marilyn Monroe of physicists,Q8023_kge_euclidean_data_transe_wikidata5mpkl_translate
+7,Angela Merkel is the Marilyn Manson of politicians,Q937_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+8,Angela Merkel is the Emma Thompson of politicians,ChatGPT
+9,Angela Merkel is the Eva Braun of politicians,Q567_kge_euclidean_data_transe_wikidata5mpkl_translate
+10,Angela Merkel is the Jessica Lange of politicians,Q937_we_cosine_word2vec_projec
+11,Angela Merkel is the Zbigniew Brzezinski of politicians,Q937_kge_cosine_data_transe_wikidata5mpkl_projec
+12,Angela Merkel is the Martin Niemöller of politicians,ChatGPT
+13,Angela Merkel is the Churchill of Diplomatic Resilience.,Q8023_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+14,Nelson Mandela was the Guevara of Freedom Struggle.,Q567_we_cosine_word2vec_projec
+15,Nelson Mandela was the François Hollande of politicians,Q8023_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+16,Nelson Mandela was the Melinda Gates of politicians,ChatGPT
+17,Nelson Mandela was the Shaka Zulu of politicians,Q8023_we_cosine_word2vec_projec
+18,Nelson Mandela was the Christopher Plummer of politicians,Q937_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+19,Nelson Mandela was the Jerry Lewis of politicians,Q567_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+20,Nelson Mandela was the Victor Francis Hess of politicians,Q567_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec

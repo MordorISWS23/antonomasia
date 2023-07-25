@@ -1,0 +1,22 @@
+,Unnamed: 0.1,Unnamed: 0,A,B,C,Model
+7,1693,1693,Angela Merkel,Lincoln,Staunch Resolve.,ChatGPT
+8,281,281,Angela Merkel,Heinz Guderian,politicians,ChatGPT
+9,318,318,Angela Merkel,Melinda Gates,politicians,Q7245_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+10,386,386,Angela Merkel,Thomas Mann,politicians,Q567_kge_cosine_data_transe_wikidata5mpkl_projec
+11,476,476,Angela Merkel,Milton Friedman,politicians,Q7245_kge_euclidean_data_transe_wikidata5mpkl_translate
+12,507,507,Angela Merkel,Emma Thompson,politicians,Q7245_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+13,553,553,Angela Merkel,Susan Boyle,politicians,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+20,274,274,Bill Gates,Francisco Goya,entrepreneurs,Q567_we_euclidean_word2vec_translate
+19,227,227,Bill Gates,Charlie Parker,entrepreneurs,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+18,197,197,Bill Gates,Margaret Thatcher,entrepreneurs,Q567_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+17,105,105,Bill Gates,Sarah Palin,entrepreneurs,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+16,31,31,Bill Gates,Harry S. Truman,entrepreneurs,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+15,4,4,Bill Gates,Gerhard Schröder,entrepreneurs,Q5284_we_euclidean_word2vec_translate
+14,1708,1708,Bill Gates,Einstein,Societal Transformation.,Q7245_we_cosine_word2vec_projec
+21,1715,1715,Mark Twain,Poe,Hilarious Anecdotes.,Q7245_we_euclidean_word2vec_translate
+22,563,563,Mark Twain,Anne Bancroft,journalists,ChatGPT
+23,597,597,Mark Twain,Sigmund Freud,journalists,Q5284_we_cosine_word2vec_projec
+24,663,663,Mark Twain,John Milton,journalists,Q567_kge_euclidean_data_transe_wikidata5mpkl_translate
+25,758,758,Mark Twain,Kirk Douglas,journalists,Q7245_kge_cosine_data_transe_wikidata5mpkl_projec
+26,785,785,Mark Twain,David Cameron,journalists,Q567_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+27,838,838,Mark Twain,Rupert Murdoch,journalists,Q567_we_cosine_word2vec_projec

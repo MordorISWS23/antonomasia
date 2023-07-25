@@ -1,0 +1,22 @@
+,Unnamed: 0.1,Unnamed: 0,A,B,C,Model
+0,1687,1687,Albert Einstein,Marie Curie,Quantum Enlightenment.,ChatGPT
+1,1127,1127,Albert Einstein,Ferdinand de Saussure,physicists,Q5284_we_cosine_word2vec_projec
+2,1153,1153,Albert Einstein,Edward Snowden,physicists,Q937_we_euclidean_word2vec_translate
+3,1223,1223,Albert Einstein,Richard Strauss,physicists,Q567_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+4,1316,1316,Albert Einstein,Carl Jung,physicists,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+5,1348,1348,Albert Einstein,William Wallace,physicists,Q567_kge_cosine_data_transe_wikidata5mpkl_projec
+6,1398,1398,Albert Einstein,Sherlock Holmes,physicists,Q567_we_euclidean_word2vec_translate
+13,558,558,Angela Merkel,Leonard Bernstein,politicians,Q937_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+12,502,502,Angela Merkel,Jennifer Aniston,politicians,Q567_we_cosine_word2vec_projec
+11,471,471,Angela Merkel,Julian Assange,politicians,Q567_kge_euclidean_data_transe_wikidata5mpkl_translate
+10,384,384,Angela Merkel,Oliver Kahn,politicians,ChatGPT
+9,317,317,Angela Merkel,Heinz Guderian,politicians,ChatGPT
+8,287,287,Angela Merkel,Hermann Hesse,politicians,Q5284_we_euclidean_word2vec_translate
+7,1699,1699,Angela Merkel,Queen Elizabeth I,Political Diplomacy.,Q937_we_cosine_word2vec_projec
+14,1707,1707,Bill Gates,Galileo,Technological Advancement.,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+15,7,7,Bill Gates,Arno Allan Penzias,entrepreneurs,Q937_kge_cosine_data_transe_wikidata5mpkl_projec
+16,33,33,Bill Gates,Neil Armstrong,entrepreneurs,Q937_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+17,106,106,Bill Gates,Edward Kennedy,entrepreneurs,Q567_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+18,193,193,Bill Gates,Mike Pence,entrepreneurs,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+19,220,220,Bill Gates,Lois Lane,entrepreneurs,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+20,277,277,Bill Gates,Jude Law,entrepreneurs,Q937_kge_euclidean_data_transe_wikidata5mpkl_translate

@@ -1,0 +1,22 @@
+,Sentence,Model
+0,Albert Einstein was the Mozart of Intellectual Breakthroughs.,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+1,Albert Einstein was the Gerty Cori of physicists,Q567_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+2,Albert Einstein was the Karl Liebknecht of physicists,ChatGPT
+3,Albert Einstein was the William Harvey of physicists,Q937_kge_cosine_data_transe_wikidata5mpkl_projec
+4,Albert Einstein was the Philip Seymour Hoffman of physicists,Q5284_we_euclidean_word2vec_translate
+5,Albert Einstein was the William Wallace of physicists,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+6,Albert Einstein was the Dustin Hoffman of physicists,Q567_we_cosine_word2vec_projec
+7,Angela Merkel is the Milton Friedman of politicians,Q567_kge_cosine_data_transe_wikidata5mpkl_projec
+8,Angela Merkel is the Betty Williams of politicians,ChatGPT
+9,Angela Merkel is the Milton Friedman of politicians,Q567_we_euclidean_word2vec_translate
+10,Angela Merkel is the Milton Friedman of politicians,Q937_we_euclidean_word2vec_translate
+11,Angela Merkel is the Karl Barth of politicians,Q567_kge_euclidean_data_transe_wikidata5mpkl_translate
+12,Angela Merkel is the Hans-Georg Gadamer of politicians,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+13,Angela Merkel is the Queen Elizabeth I of Political Diplomacy.,Q937_kge_euclidean_data_transe_wikidata5mpkl_translate
+14,Bill Gates is the Mozart of Entrepreneurial Brilliance.,Q937_we_cosine_word2vec_projec
+15,Bill Gates is the Barbara Bush of entrepreneurs,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+16,Bill Gates is the Harry S. Truman of entrepreneurs,Q937_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+17,Bill Gates is the Neil Armstrong of entrepreneurs,Q567_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+18,Bill Gates is the Mike Pence of entrepreneurs,ChatGPT
+19,Bill Gates is the Osama bin Laden of entrepreneurs,Q937_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+20,Bill Gates is the Cyrus the Great of entrepreneurs,Q5284_we_cosine_word2vec_projec

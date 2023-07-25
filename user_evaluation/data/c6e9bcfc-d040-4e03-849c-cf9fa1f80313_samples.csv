@@ -1,0 +1,22 @@
+,Sentence,Model
+0,Albert Einstein was the Da Vinci of Rationality.,Q9960_we_cosine_word2vec_projec
+1,Albert Einstein was the Willy Brandt of physicists,Q7245_kge_euclidean_data_transe_wikidata5mpkl_translate
+2,Albert Einstein was the Karl Liebknecht of physicists,ChatGPT
+3,Albert Einstein was the Boris Becker of physicists,Q9960_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+4,Albert Einstein was the Carl Rogers of physicists,Q937_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+5,Albert Einstein was the Robbie Williams of physicists,Q937_we_euclidean_word2vec_translate
+6,Albert Einstein was the Syd Barrett of physicists,Q937_kge_euclidean_data_transe_wikidata5mpkl_translate
+7,Mark Twain was the Frederick Sanger of journalists,Q7245_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+8,Mark Twain was the Maurice Ravel of journalists,Q7245_we_cosine_word2vec_projec
+9,Mark Twain was the Kirk Douglas of journalists,Q937_we_cosine_word2vec_projec
+10,Mark Twain was the Jeff Bridges of journalists,Q937_kge_cosine_data_transe_wikidata5mpkl_projec
+11,Mark Twain was the Errol Flynn of journalists,ChatGPT
+12,Mark Twain was the Anne Bancroft of journalists,Q7245_kge_cosine_data_transe_wikidata5mpkl_projec
+13,Mark Twain was the Wilde of Social Commentary.,Q9960_kge_euclidean_data_transe_wikidata5mpkl_translate
+14,Ronald Reagan was the Kennedy of Charismatic Governance.,Q9960_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+15,Ronald Reagan was the Sally Ride of television actors,Q7245_we_euclidean_word2vec_translate
+16,Ronald Reagan was the Steve Jobs of television actors,ChatGPT
+17,Ronald Reagan was the Jesse Owens of television actors,Q937_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+18,Ronald Reagan was the Carl Rogers of television actors,Q9960_we_euclidean_word2vec_translate
+19,Ronald Reagan was the Robert Edwards of television actors,Q9960_kge_cosine_data_transe_wikidata5mpkl_projec
+20,Ronald Reagan was the Leonard Bernstein of television actors,Q7245_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec

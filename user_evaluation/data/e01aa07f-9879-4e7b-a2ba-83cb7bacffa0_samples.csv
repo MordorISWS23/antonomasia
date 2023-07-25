@@ -1,0 +1,22 @@
+,Sentence,Model
+0,Albert Einstein was the Tesla of Conceptual Innovation.,Q5284_we_euclidean_word2vec_translate
+1,Albert Einstein was the Gerhard Schröder of physicists,Q8023_we_euclidean_word2vec_translate
+2,Albert Einstein was the Edward Snowden of physicists,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+3,Albert Einstein was the Richard Strauss of physicists,Q8023_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+4,Albert Einstein was the William Harvey of physicists,Q8023_we_cosine_word2vec_projec
+5,Albert Einstein was the William Wallace of physicists,Q937_we_cosine_word2vec_projec
+6,Albert Einstein was the Dustin Hoffman of physicists,ChatGPT
+7,Bill Gates is the Maurice Ravel of entrepreneurs,Q937_we_euclidean_word2vec_translate
+8,Bill Gates is the Jimmy Page of entrepreneurs,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+9,Bill Gates is the Mike Pence of entrepreneurs,Q937_kge_cosine_data_transe_wikidata5mpkl_projec
+10,Bill Gates is the Neil Armstrong of entrepreneurs,Q8023_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+11,Bill Gates is the Elizabeth II of entrepreneurs,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+12,Bill Gates is the Harry S. Truman of entrepreneurs,Q8023_kge_euclidean_data_transe_wikidata5mpkl_translate
+13,Bill Gates is the Mozart of Entrepreneurial Brilliance.,Q5284_we_cosine_word2vec_projec
+14,Nelson Mandela was the Sankara of Pan-Africanism.,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+15,Nelson Mandela was the Dilma Rousseff of politicians,Q937_kge_euclidean_data_transe_wikidata5mpkl_translate
+16,Nelson Mandela was the Elizabeth II of politicians,ChatGPT
+17,Nelson Mandela was the Robert Boyle of politicians,ChatGPT
+18,Nelson Mandela was the Paul Newman of politicians,Q937_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+19,Nelson Mandela was the Carl David Anderson of politicians,Q8023_kge_cosine_data_transe_wikidata5mpkl_projec
+20,Nelson Mandela was the Victor Francis Hess of politicians,Q937_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec

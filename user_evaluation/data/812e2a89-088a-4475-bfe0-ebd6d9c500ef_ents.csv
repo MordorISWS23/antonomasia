@@ -1,0 +1,22 @@
+,Unnamed: 0.1,Unnamed: 0,A,B,C,Model
+14,1700,1700,Bill Gates,Edison,Technological Ingenuity.,ChatGPT
+15,9,9,Bill Gates,Donald Rumsfeld,entrepreneurs,Q7245_we_cosine_word2vec_projec
+16,39,39,Bill Gates,Sarah Palin,entrepreneurs,Q7245_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+17,106,106,Bill Gates,Edward Kennedy,entrepreneurs,Q5284_kge_cosine_data_transe_wikidata5mpkl_projec
+18,193,193,Bill Gates,Mike Pence,entrepreneurs,Q7245_kge_euclidean_data_transe_wikidata5mpkl_translate
+19,227,227,Bill Gates,Charlie Parker,entrepreneurs,ChatGPT
+20,276,276,Bill Gates,Otto I the Great,entrepreneurs,Q8023_we_cosine_word2vec_projec
+27,839,839,Mark Twain,Cyrus the Great,journalists,ChatGPT
+26,780,780,Mark Twain,Mark the Evangelist,journalists,Q5284_kge_euclidean_data_transe_wikidata5mpkl_translate
+25,753,753,Mark Twain,Joseph Smith,journalists,Q8023_we_euclidean_word2vec_translate
+24,669,669,Mark Twain,Robin Williams,journalists,Q5284_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+23,592,592,Mark Twain,Neil Armstrong,journalists,Q8023_kge_cosine_data_transe_wikidata5mpkl_projec
+22,569,569,Mark Twain,Jack Lemmon,journalists,Q5284_we_euclidean_word2vec_translate
+21,1716,1716,Mark Twain,Chaucer,American Vernacular.,Q8023_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+28,1725,1725,Nelson Mandela,Luther King,Human Rights.,Q7245_we_euclidean_word2vec_translate
+29,841,841,Nelson Mandela,Muhammad Yunus,politicians,Q5284_we_cosine_word2vec_projec
+30,872,872,Nelson Mandela,Shakira,politicians,Q7245_kge_cosine_data_transe_wikidata5mpkl_projec
+31,949,949,Nelson Mandela,Paul Newman,politicians,Q7245_meta_cosine_data_transe_wikidata5mpkl_word2vec_concatenate_projec
+32,1038,1038,Nelson Mandela,Robert Boyle,politicians,Q5284_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
+33,1062,1062,Nelson Mandela,David Silva,politicians,Q8023_kge_euclidean_data_transe_wikidata5mpkl_translate
+34,1119,1119,Nelson Mandela,Donald Sutherland,politicians,Q8023_meta_euclidean_data_transe_wikidata5mpkl_word2vec_concatenate_translate
